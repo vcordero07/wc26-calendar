@@ -1,0 +1,3110 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//wc26//World Cup 2026 Watch Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+NAME:World Cup 2026
+X-WR-CALNAME:World Cup 2026
+DESCRIPTION:All 104 FIFA World Cup 2026 matches with kickoff times (UTC)\, 
+ stadium details\, bracket context\, results\, and watch links. Derived fro
+ m https://worldcuply.com/matches.ics.
+X-WR-CALDESC:All 104 FIFA World Cup 2026 matches with stadium info\, bracke
+ t context\, results\, and Peacock\, Telemundo\, and FOX One watch links.
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+SOURCE;VALUE=URI:https://worldcuply.com/matches.ics
+BEGIN:VEVENT
+UID:wc2026-watch-1@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260611T190000Z
+DTEND:20260611T204500Z
+SUMMARY:🇲🇽 Mexico vs 🇿🇦 South Africa · 2-0
+LOCATION:Estadio Azteca\, Mexico City · CDMX · Mexico
+DESCRIPTION:⚽ M01-A\nFIFA World Cup 2026 — Match 1 of 104\nStage: Group A\n
+ Kickoff: Thu 11 Jun 2026 · 19:00 UTC\nResult: 2-0\n\nVenue:\n  Stadium: Es
+ tadio Azteca\n  Capacity: 87\,523\n  City: Mexico City\n  State: CDMX\n  C
+ ountry: Mexico\n  Stadium info: https://en.wikipedia.org/wiki/Estadio_Azte
+ ca\n\nMatch page:\n  Forza (lineups\, live score\, stats): https://forzafo
+ otball.com/match/1219435446\n\nWatch:\n  Peacock (Spanish\, stream all 104
+  matches): https://www.peacocktv.com/watch/sports-La-Copa-Mundial-de-la-FI
+ FA-2026\n  Telemundo (Spanish\, schedule + TV): https://www.telemundo.com/
+ deportes/copa-mundial-de-la-fifa-2026\n  FOX One (English\, stream all 104
+  matches): https://www.fox.com/soccer/fifa-world-cup\n\nSchedule source: h
+ ttps://worldcuply.com/matches.ics
+URL:https://forzafootball.com/match/1219435446
+CATEGORIES:World Cup 2026,Group A
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🇲🇽 Mexico vs 🇿🇦 South Africa · 2-0 kicks off in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-2@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260612T020000Z
+DTEND:20260612T034500Z
+SUMMARY:🇰🇷 South Korea vs 🇨🇿 Czech Republic · 2-1
+LOCATION:Estadio Akron\, Guadalajara · Jalisco · Mexico
+DESCRIPTION:⚽ M02-A\nFIFA World Cup 2026 — Match 2 of 104\nStage: Group A\n
+ Kickoff: Fri 12 Jun 2026 · 02:00 UTC\nResult: 2-1\n\nVenue:\n  Stadium: Es
+ tadio Akron\n  Capacity: 49\,850\n  City: Guadalajara\n  State: Jalisco\n 
+  Country: Mexico\n  Stadium info: https://en.wikipedia.org/wiki/Estadio_Ak
+ ron\n\nMatch page:\n  Forza (lineups\, live score\, stats): https://forzaf
+ ootball.com/match/1219437888\n\nWatch:\n  Peacock (Spanish\, stream all 10
+ 4 matches): https://www.peacocktv.com/watch/sports-La-Copa-Mundial-de-la-F
+ IFA-2026\n  Telemundo (Spanish\, schedule + TV): https://www.telemundo.com
+ /deportes/copa-mundial-de-la-fifa-2026\n  FOX One (English\, stream all 10
+ 4 matches): https://www.fox.com/soccer/fifa-world-cup\n\nSchedule source: 
+ https://worldcuply.com/matches.ics
+URL:https://forzafootball.com/match/1219437888
+CATEGORIES:World Cup 2026,Group A
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🇰🇷 South Korea vs 🇨🇿 Czech Republic · 2-1 kicks off in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-3@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260612T190000Z
+DTEND:20260612T204500Z
+SUMMARY:🇨🇦 Canada vs 🇧🇦 Bosnia and Herzegovina · 1-1
+LOCATION:BMO Field\, Toronto · Ontario · Canada
+DESCRIPTION:⚽ M03-B\nFIFA World Cup 2026 — Match 3 of 104\nStage: Group B\n
+ Kickoff: Fri 12 Jun 2026 · 19:00 UTC\nResult: 1-1\n\nVenue:\n  Stadium: BM
+ O Field\n  Capacity: 45\,736\n  City: Toronto\n  State: Ontario\n  Country
+ : Canada\n  Stadium info: https://en.wikipedia.org/wiki/BMO_Field\n\nMatch
+  page:\n  Forza (lineups\, live score\, stats): https://forzafootball.com/
+ match/1219437891\n\nWatch:\n  Peacock (Spanish\, stream all 104 matches): 
+ https://www.peacocktv.com/watch/sports-La-Copa-Mundial-de-la-FIFA-2026\n  
+ Telemundo (Spanish\, schedule + TV): https://www.telemundo.com/deportes/co
+ pa-mundial-de-la-fifa-2026\n  FOX One (English\, stream all 104 matches): 
+ https://www.fox.com/soccer/fifa-world-cup\n\nSchedule source: https://worl
+ dcuply.com/matches.ics
+URL:https://forzafootball.com/match/1219437891
+CATEGORIES:World Cup 2026,Group B
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🇨🇦 Canada vs 🇧🇦 Bosnia and Herzegovina · 1-1 kicks off in 1 hou
+ r
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-4@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260613T010000Z
+DTEND:20260613T024500Z
+SUMMARY:🇺🇸 United States vs 🇵🇾 Paraguay · 4-1
+LOCATION:SoFi Stadium\, Los Angeles (Inglewood) · California · United State
+ s
+DESCRIPTION:⚽ M04-D\nFIFA World Cup 2026 — Match 4 of 104\nStage: Group D\n
+ Kickoff: Sat 13 Jun 2026 · 01:00 UTC\nResult: 4-1\n\nVenue:\n  Stadium: So
+ Fi Stadium\n  Capacity: 70\,240\n  City: Los Angeles (Inglewood)\n  State:
+  California\n  Country: United States\n  Stadium info: https://en.wikipedi
+ a.org/wiki/SoFi_Stadium\n\nMatch page:\n  Forza (lineups\, live score\, st
+ ats): https://forzafootball.com/match/1219435452\n\nWatch:\n  Peacock (Spa
+ nish\, stream all 104 matches): https://www.peacocktv.com/watch/sports-La-
+ Copa-Mundial-de-la-FIFA-2026\n  Telemundo (Spanish\, schedule + TV): https
+ ://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026\n  FOX One (Eng
+ lish\, stream all 104 matches): https://www.fox.com/soccer/fifa-world-cup\
+ n\nSchedule source: https://worldcuply.com/matches.ics
+URL:https://forzafootball.com/match/1219435452
+CATEGORIES:World Cup 2026,Group D
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🇺🇸 United States vs 🇵🇾 Paraguay · 4-1 kicks off in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-5@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260614T010000Z
+DTEND:20260614T024500Z
+SUMMARY:🇭🇹 Haiti vs 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland · 0-1
+LOCATION:Gillette Stadium\, Foxborough (Boston area) · Massachusetts · Unit
+ ed States
+DESCRIPTION:⚽ M05-C\nFIFA World Cup 2026 — Match 5 of 104\nStage: Group C\n
+ Kickoff: Sun 14 Jun 2026 · 01:00 UTC\nResult: 0-1\n\nVenue:\n  Stadium: Gi
+ llette Stadium\n  Capacity: 65\,878\n  City: Foxborough (Boston area)\n  S
+ tate: Massachusetts\n  Country: United States\n  Stadium info: https://en.
+ wikipedia.org/wiki/Gillette_Stadium\n\nMatch page:\n  Forza (lineups\, liv
+ e score\, stats): https://forzafootball.com/match/1219435456\n\nWatch:\n  
+ Peacock (Spanish\, stream all 104 matches): https://www.peacocktv.com/watc
+ h/sports-La-Copa-Mundial-de-la-FIFA-2026\n  Telemundo (Spanish\, schedule 
+ + TV): https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026\n  
+ FOX One (English\, stream all 104 matches): https://www.fox.com/soccer/fif
+ a-world-cup\n\nSchedule source: https://worldcuply.com/matches.ics
+URL:https://forzafootball.com/match/1219435456
+CATEGORIES:World Cup 2026,Group C
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🇭🇹 Haiti vs 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland · 0-1 kicks off in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-6@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260614T040000Z
+DTEND:20260614T054500Z
+SUMMARY:🇦🇺 Australia vs 🇹🇷 Turkey · 2-0
+LOCATION:BC Place\, Vancouver · British Columbia · Canada
+DESCRIPTION:⚽ M06-D\nFIFA World Cup 2026 — Match 6 of 104\nStage: Group D\n
+ Kickoff: Sun 14 Jun 2026 · 04:00 UTC\nResult: 2-0\n\nVenue:\n  Stadium: BC
+  Place\n  Capacity: 54\,000\n  City: Vancouver\n  State: British Columbia\
+ n  Country: Canada\n  Stadium info: https://en.wikipedia.org/wiki/BC_Place
+ \n\nMatch page:\n  Forza (lineups\, live score\, stats): https://forzafoot
+ ball.com/match/1219437894\n\nWatch:\n  Peacock (Spanish\, stream all 104 m
+ atches): https://www.peacocktv.com/watch/sports-La-Copa-Mundial-de-la-FIFA
+ -2026\n  Telemundo (Spanish\, schedule + TV): https://www.telemundo.com/de
+ portes/copa-mundial-de-la-fifa-2026\n  FOX One (English\, stream all 104 m
+ atches): https://www.fox.com/soccer/fifa-world-cup\n\nSchedule source: htt
+ ps://worldcuply.com/matches.ics
+URL:https://forzafootball.com/match/1219437894
+CATEGORIES:World Cup 2026,Group D
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🇦🇺 Australia vs 🇹🇷 Turkey · 2-0 kicks off in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-7@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260613T220000Z
+DTEND:20260613T234500Z
+SUMMARY:🇧🇷 Brazil vs 🇲🇦 Morocco · 1-1
+LOCATION:MetLife Stadium\, East Rutherford (NYC area) · New Jersey · United
+  States
+DESCRIPTION:⚽ M07-C\nFIFA World Cup 2026 — Match 7 of 104\nStage: Group C\n
+ Kickoff: Sat 13 Jun 2026 · 22:00 UTC\nResult: 1-1\n\nVenue:\n  Stadium: Me
+ tLife Stadium\n  Capacity: 82\,500\n  City: East Rutherford (NYC area)\n  
+ State: New Jersey\n  Country: United States\n  Stadium info: https://en.wi
+ kipedia.org/wiki/MetLife_Stadium\n\nMatch page:\n  Forza (lineups\, live s
+ core\, stats): https://forzafootball.com/match/1219435455\n\nWatch:\n  Pea
+ cock (Spanish\, stream all 104 matches): https://www.peacocktv.com/watch/s
+ ports-La-Copa-Mundial-de-la-FIFA-2026\n  Telemundo (Spanish\, schedule + T
+ V): https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026\n  FOX
+  One (English\, stream all 104 matches): https://www.fox.com/soccer/fifa-w
+ orld-cup\n\nSchedule source: https://worldcuply.com/matches.ics
+URL:https://forzafootball.com/match/1219435455
+CATEGORIES:World Cup 2026,Group C
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🇧🇷 Brazil vs 🇲🇦 Morocco · 1-1 kicks off in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-8@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260613T190000Z
+DTEND:20260613T204500Z
+SUMMARY:🇶🇦 Qatar vs 🇨🇭 Switzerland · 1-1
+LOCATION:Levi's Stadium\, Santa Clara (Bay Area) · California · United Stat
+ es
+DESCRIPTION:⚽ M08-B\nFIFA World Cup 2026 — Match 8 of 104\nStage: Group B\n
+ Kickoff: Sat 13 Jun 2026 · 19:00 UTC\nResult: 1-1\n\nVenue:\n  Stadium: Le
+ vi's Stadium\n  Capacity: 68\,500\n  City: Santa Clara (Bay Area)\n  State
+ : California\n  Country: United States\n  Stadium info: https://en.wikiped
+ ia.org/wiki/Levi%27s_Stadium\n\nMatch page:\n  Forza (lineups\, live score
+ \, stats): https://forzafootball.com/match/1219435449\n\nWatch:\n  Peacock
+  (Spanish\, stream all 104 matches): https://www.peacocktv.com/watch/sport
+ s-La-Copa-Mundial-de-la-FIFA-2026\n  Telemundo (Spanish\, schedule + TV): 
+ https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026\n  FOX One
+  (English\, stream all 104 matches): https://www.fox.com/soccer/fifa-world
+ -cup\n\nSchedule source: https://worldcuply.com/matches.ics
+URL:https://forzafootball.com/match/1219435449
+CATEGORIES:World Cup 2026,Group B
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🇶🇦 Qatar vs 🇨🇭 Switzerland · 1-1 kicks off in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-9@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260614T230000Z
+DTEND:20260615T004500Z
+SUMMARY:🇨🇮 Ivory Coast vs 🇪🇨 Ecuador · 1-0
+LOCATION:Lincoln Financial Field\, Philadelphia · Pennsylvania · United Sta
+ tes
+DESCRIPTION:⚽ M09-E\nFIFA World Cup 2026 — Match 9 of 104\nStage: Group E\n
+ Kickoff: Sun 14 Jun 2026 · 23:00 UTC\nResult: 1-0\n\nVenue:\n  Stadium: Li
+ ncoln Financial Field\n  Capacity: 69\,796\n  City: Philadelphia\n  State:
+  Pennsylvania\n  Country: United States\n  Stadium info: https://en.wikipe
+ dia.org/wiki/Lincoln_Financial_Field\n\nMatch page:\n  Forza (lineups\, li
+ ve score\, stats): https://forzafootball.com/match/1219435592\n\nWatch:\n 
+  Peacock (Spanish\, stream all 104 matches): https://www.peacocktv.com/wat
+ ch/sports-La-Copa-Mundial-de-la-FIFA-2026\n  Telemundo (Spanish\, schedule
+  + TV): https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026\n 
+  FOX One (English\, stream all 104 matches): https://www.fox.com/soccer/fi
+ fa-world-cup\n\nSchedule source: https://worldcuply.com/matches.ics
+URL:https://forzafootball.com/match/1219435592
+CATEGORIES:World Cup 2026,Group E
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🇨🇮 Ivory Coast vs 🇪🇨 Ecuador · 1-0 kicks off in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-10@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260614T170000Z
+DTEND:20260614T184500Z
+SUMMARY:🇩🇪 Germany vs 🇨🇼 Curaçao · 7-1
+LOCATION:NRG Stadium\, Houston · Texas · United States
+DESCRIPTION:⚽ M10-E\nFIFA World Cup 2026 — Match 10 of 104\nStage: Group E\
+ nKickoff: Sun 14 Jun 2026 · 17:00 UTC\nResult: 7-1\n\nVenue:\n  Stadium: N
+ RG Stadium\n  Capacity: 72\,220\n  City: Houston\n  State: Texas\n  Countr
+ y: United States\n  Stadium info: https://en.wikipedia.org/wiki/NRG_Stadiu
+ m\n\nMatch page:\n  Forza (lineups\, live score\, stats): https://forzafoo
+ tball.com/match/1219435591\n\nWatch:\n  Peacock (Spanish\, stream all 104 
+ matches): https://www.peacocktv.com/watch/sports-La-Copa-Mundial-de-la-FIF
+ A-2026\n  Telemundo (Spanish\, schedule + TV): https://www.telemundo.com/d
+ eportes/copa-mundial-de-la-fifa-2026\n  FOX One (English\, stream all 104 
+ matches): https://www.fox.com/soccer/fifa-world-cup\n\nSchedule source: ht
+ tps://worldcuply.com/matches.ics
+URL:https://forzafootball.com/match/1219435591
+CATEGORIES:World Cup 2026,Group E
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🇩🇪 Germany vs 🇨🇼 Curaçao · 7-1 kicks off in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-11@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260614T200000Z
+DTEND:20260614T214500Z
+SUMMARY:🇳🇱 Netherlands vs 🇯🇵 Japan · 2-2
+LOCATION:AT&T Stadium\, Arlington (Dallas area) · Texas · United States
+DESCRIPTION:⚽ M11-F\nFIFA World Cup 2026 — Match 11 of 104\nStage: Group F\
+ nKickoff: Sun 14 Jun 2026 · 20:00 UTC\nResult: 2-2\n\nVenue:\n  Stadium: A
+ T&T Stadium\n  Capacity: 80\,000\n  City: Arlington (Dallas area)\n  State
+ : Texas\n  Country: United States\n  Stadium info: https://en.wikipedia.or
+ g/wiki/AT%26T_Stadium\n\nMatch page:\n  Forza (lineups\, live score\, stat
+ s): https://forzafootball.com/match/1219435461\n\nWatch:\n  Peacock (Spani
+ sh\, stream all 104 matches): https://www.peacocktv.com/watch/sports-La-Co
+ pa-Mundial-de-la-FIFA-2026\n  Telemundo (Spanish\, schedule + TV): https:/
+ /www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026\n  FOX One (Engli
+ sh\, stream all 104 matches): https://www.fox.com/soccer/fifa-world-cup\n\
+ nSchedule source: https://worldcuply.com/matches.ics
+URL:https://forzafootball.com/match/1219435461
+CATEGORIES:World Cup 2026,Group F
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🇳🇱 Netherlands vs 🇯🇵 Japan · 2-2 kicks off in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-12@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260615T020000Z
+DTEND:20260615T034500Z
+SUMMARY:🇸🇪 Sweden vs 🇹🇳 Tunisia · 5-1
+LOCATION:Estadio BBVA\, Monterrey · Nuevo León · Mexico
+DESCRIPTION:⚽ M12-F\nFIFA World Cup 2026 — Match 12 of 104\nStage: Group F\
+ nKickoff: Mon 15 Jun 2026 · 02:00 UTC\nResult: 5-1\n\nVenue:\n  Stadium: E
+ stadio BBVA\n  Capacity: 53\,500\n  City: Monterrey\n  State: Nuevo León\n
+   Country: Mexico\n  Stadium info: https://en.wikipedia.org/wiki/Estadio_B
+ BVA\n\nMatch page:\n  Forza (lineups\, live score\, stats): https://forzaf
+ ootball.com/match/1219437897\n\nWatch:\n  Peacock (Spanish\, stream all 10
+ 4 matches): https://www.peacocktv.com/watch/sports-La-Copa-Mundial-de-la-F
+ IFA-2026\n  Telemundo (Spanish\, schedule + TV): https://www.telemundo.com
+ /deportes/copa-mundial-de-la-fifa-2026\n  FOX One (English\, stream all 10
+ 4 matches): https://www.fox.com/soccer/fifa-world-cup\n\nSchedule source: 
+ https://worldcuply.com/matches.ics
+URL:https://forzafootball.com/match/1219437897
+CATEGORIES:World Cup 2026,Group F
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🇸🇪 Sweden vs 🇹🇳 Tunisia · 5-1 kicks off in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-13@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260615T220000Z
+DTEND:20260615T234500Z
+SUMMARY:🇸🇦 Saudi Arabia vs 🇺🇾 Uruguay · 1-1
+LOCATION:Hard Rock Stadium\, Miami Gardens · Florida · United States
+DESCRIPTION:⚽ M13-H\nFIFA World Cup 2026 — Match 13 of 104\nStage: Group H\
+ nKickoff: Mon 15 Jun 2026 · 22:00 UTC\nResult: 1-1\n\nVenue:\n  Stadium: H
+ ard Rock Stadium\n  Capacity: 65\,326\n  City: Miami Gardens\n  State: Flo
+ rida\n  Country: United States\n  Stadium info: https://en.wikipedia.org/w
+ iki/Hard_Rock_Stadium\n\nMatch page:\n  Forza (lineups\, live score\, stat
+ s): https://forzafootball.com/match/1219435604\n\nWatch:\n  Peacock (Spani
+ sh\, stream all 104 matches): https://www.peacocktv.com/watch/sports-La-Co
+ pa-Mundial-de-la-FIFA-2026\n  Telemundo (Spanish\, schedule + TV): https:/
+ /www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026\n  FOX One (Engli
+ sh\, stream all 104 matches): https://www.fox.com/soccer/fifa-world-cup\n\
+ nSchedule source: https://worldcuply.com/matches.ics
+URL:https://forzafootball.com/match/1219435604
+CATEGORIES:World Cup 2026,Group H
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🇸🇦 Saudi Arabia vs 🇺🇾 Uruguay · 1-1 kicks off in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-14@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260615T160000Z
+DTEND:20260615T174500Z
+SUMMARY:🇪🇸 Spain vs 🇨🇻 Cape Verde · 0-0
+LOCATION:Mercedes-Benz Stadium\, Atlanta · Georgia · United States
+DESCRIPTION:⚽ M14-H\nFIFA World Cup 2026 — Match 14 of 104\nStage: Group H\
+ nKickoff: Mon 15 Jun 2026 · 16:00 UTC\nResult: 0-0\n\nVenue:\n  Stadium: M
+ ercedes-Benz Stadium\n  Capacity: 71\,000\n  City: Atlanta\n  State: Georg
+ ia\n  Country: United States\n  Stadium info: https://en.wikipedia.org/wik
+ i/Mercedes-Benz_Stadium\n\nMatch page:\n  Forza (lineups\, live score\, st
+ ats): https://forzafootball.com/match/1219435603\n\nWatch:\n  Peacock (Spa
+ nish\, stream all 104 matches): https://www.peacocktv.com/watch/sports-La-
+ Copa-Mundial-de-la-FIFA-2026\n  Telemundo (Spanish\, schedule + TV): https
+ ://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026\n  FOX One (Eng
+ lish\, stream all 104 matches): https://www.fox.com/soccer/fifa-world-cup\
+ n\nSchedule source: https://worldcuply.com/matches.ics
+URL:https://forzafootball.com/match/1219435603
+CATEGORIES:World Cup 2026,Group H
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🇪🇸 Spain vs 🇨🇻 Cape Verde · 0-0 kicks off in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-15@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260616T010000Z
+DTEND:20260616T024500Z
+SUMMARY:🇮🇷 Iran vs 🇳🇿 New Zealand · 2-2
+LOCATION:SoFi Stadium\, Los Angeles (Inglewood) · California · United State
+ s
+DESCRIPTION:⚽ M15-G\nFIFA World Cup 2026 — Match 15 of 104\nStage: Group G\
+ nKickoff: Tue 16 Jun 2026 · 01:00 UTC\nResult: 2-2\n\nVenue:\n  Stadium: S
+ oFi Stadium\n  Capacity: 70\,240\n  City: Los Angeles (Inglewood)\n  State
+ : California\n  Country: United States\n  Stadium info: https://en.wikiped
+ ia.org/wiki/SoFi_Stadium\n\nMatch page:\n  Forza (lineups\, live score\, s
+ tats): https://forzafootball.com/match/1219435599\n\nWatch:\n  Peacock (Sp
+ anish\, stream all 104 matches): https://www.peacocktv.com/watch/sports-La
+ -Copa-Mundial-de-la-FIFA-2026\n  Telemundo (Spanish\, schedule + TV): http
+ s://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026\n  FOX One (En
+ glish\, stream all 104 matches): https://www.fox.com/soccer/fifa-world-cup
+ \n\nSchedule source: https://worldcuply.com/matches.ics
+URL:https://forzafootball.com/match/1219435599
+CATEGORIES:World Cup 2026,Group G
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🇮🇷 Iran vs 🇳🇿 New Zealand · 2-2 kicks off in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-16@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260615T190000Z
+DTEND:20260615T204500Z
+SUMMARY:🇧🇪 Belgium vs 🇪🇬 Egypt · 1-1
+LOCATION:Lumen Field\, Seattle · Washington · United States
+DESCRIPTION:⚽ M16-G\nFIFA World Cup 2026 — Match 16 of 104\nStage: Group G\
+ nKickoff: Mon 15 Jun 2026 · 19:00 UTC\nResult: 1-1\n\nVenue:\n  Stadium: L
+ umen Field\n  Capacity: 68\,760\n  City: Seattle\n  State: Washington\n  C
+ ountry: United States\n  Stadium info: https://en.wikipedia.org/wiki/Lumen
+ _Field\n\nMatch page:\n  Forza (lineups\, live score\, stats): https://for
+ zafootball.com/match/1219435597\n\nWatch:\n  Peacock (Spanish\, stream all
+  104 matches): https://www.peacocktv.com/watch/sports-La-Copa-Mundial-de-l
+ a-FIFA-2026\n  Telemundo (Spanish\, schedule + TV): https://www.telemundo.
+ com/deportes/copa-mundial-de-la-fifa-2026\n  FOX One (English\, stream all
+  104 matches): https://www.fox.com/soccer/fifa-world-cup\n\nSchedule sourc
+ e: https://worldcuply.com/matches.ics
+URL:https://forzafootball.com/match/1219435597
+CATEGORIES:World Cup 2026,Group G
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🇧🇪 Belgium vs 🇪🇬 Egypt · 1-1 kicks off in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-17@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260616T190000Z
+DTEND:20260616T204500Z
+SUMMARY:🇫🇷 France vs 🇸🇳 Senegal · 3-1
+LOCATION:MetLife Stadium\, East Rutherford (NYC area) · New Jersey · United
+  States
+DESCRIPTION:⚽ M17-I\nFIFA World Cup 2026 — Match 17 of 104\nStage: Group I\
+ nKickoff: Tue 16 Jun 2026 · 19:00 UTC\nResult: 3-1\n\nVenue:\n  Stadium: M
+ etLife Stadium\n  Capacity: 82\,500\n  City: East Rutherford (NYC area)\n 
+  State: New Jersey\n  Country: United States\n  Stadium info: https://en.w
+ ikipedia.org/wiki/MetLife_Stadium\n\nMatch page:\n  Forza (lineups\, live 
+ score\, stats): https://forzafootball.com/match/1219435608\n\nWatch:\n  Pe
+ acock (Spanish\, stream all 104 matches): https://www.peacocktv.com/watch/
+ sports-La-Copa-Mundial-de-la-FIFA-2026\n  Telemundo (Spanish\, schedule + 
+ TV): https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026\n  FO
+ X One (English\, stream all 104 matches): https://www.fox.com/soccer/fifa-
+ world-cup\n\nSchedule source: https://worldcuply.com/matches.ics
+URL:https://forzafootball.com/match/1219435608
+CATEGORIES:World Cup 2026,Group I
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🇫🇷 France vs 🇸🇳 Senegal · 3-1 kicks off in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-18@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260616T220000Z
+DTEND:20260616T234500Z
+SUMMARY:🇮🇶 Iraq vs 🇳🇴 Norway · 1-4
+LOCATION:Gillette Stadium\, Foxborough (Boston area) · Massachusetts · Unit
+ ed States
+DESCRIPTION:⚽ M18-I\nFIFA World Cup 2026 — Match 18 of 104\nStage: Group I\
+ nKickoff: Tue 16 Jun 2026 · 22:00 UTC\nResult: 1-4\n\nVenue:\n  Stadium: G
+ illette Stadium\n  Capacity: 65\,878\n  City: Foxborough (Boston area)\n  
+ State: Massachusetts\n  Country: United States\n  Stadium info: https://en
+ .wikipedia.org/wiki/Gillette_Stadium\n\nMatch page:\n  Forza (lineups\, li
+ ve score\, stats): https://forzafootball.com/match/1219437900\n\nWatch:\n 
+  Peacock (Spanish\, stream all 104 matches): https://www.peacocktv.com/wat
+ ch/sports-La-Copa-Mundial-de-la-FIFA-2026\n  Telemundo (Spanish\, schedule
+  + TV): https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026\n 
+  FOX One (English\, stream all 104 matches): https://www.fox.com/soccer/fi
+ fa-world-cup\n\nSchedule source: https://worldcuply.com/matches.ics
+URL:https://forzafootball.com/match/1219437900
+CATEGORIES:World Cup 2026,Group I
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🇮🇶 Iraq vs 🇳🇴 Norway · 1-4 kicks off in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-19@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260617T010000Z
+DTEND:20260617T024500Z
+SUMMARY:🇦🇷 Argentina vs 🇩🇿 Algeria · 3-0
+LOCATION:Arrowhead Stadium\, Kansas City · Missouri · United States
+DESCRIPTION:⚽ M19-J\nFIFA World Cup 2026 — Match 19 of 104\nStage: Group J\
+ nKickoff: Wed 17 Jun 2026 · 01:00 UTC\nResult: 3-0\n\nVenue:\n  Stadium: A
+ rrowhead Stadium\n  Capacity: 76\,416\n  City: Kansas City\n  State: Misso
+ uri\n  Country: United States\n  Stadium info: https://en.wikipedia.org/wi
+ ki/Arrowhead_Stadium\n\nMatch page:\n  Forza (lineups\, live score\, stats
+ ): https://forzafootball.com/match/1219435612\n\nWatch:\n  Peacock (Spanis
+ h\, stream all 104 matches): https://www.peacocktv.com/watch/sports-La-Cop
+ a-Mundial-de-la-FIFA-2026\n  Telemundo (Spanish\, schedule + TV): https://
+ www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026\n  FOX One (Englis
+ h\, stream all 104 matches): https://www.fox.com/soccer/fifa-world-cup\n\n
+ Schedule source: https://worldcuply.com/matches.ics
+URL:https://forzafootball.com/match/1219435612
+CATEGORIES:World Cup 2026,Group J
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🇦🇷 Argentina vs 🇩🇿 Algeria · 3-0 kicks off in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-20@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260617T040000Z
+DTEND:20260617T054500Z
+SUMMARY:🇦🇹 Austria vs 🇯🇴 Jordan · 3-1
+LOCATION:Levi's Stadium\, Santa Clara (Bay Area) · California · United Stat
+ es
+DESCRIPTION:⚽ M20-J\nFIFA World Cup 2026 — Match 20 of 104\nStage: Group J\
+ nKickoff: Wed 17 Jun 2026 · 04:00 UTC\nResult: 3-1\n\nVenue:\n  Stadium: L
+ evi's Stadium\n  Capacity: 68\,500\n  City: Santa Clara (Bay Area)\n  Stat
+ e: California\n  Country: United States\n  Stadium info: https://en.wikipe
+ dia.org/wiki/Levi%27s_Stadium\n\nMatch page:\n  Forza (lineups\, live scor
+ e\, stats): https://forzafootball.com/match/1219435613\n\nWatch:\n  Peacoc
+ k (Spanish\, stream all 104 matches): https://www.peacocktv.com/watch/spor
+ ts-La-Copa-Mundial-de-la-FIFA-2026\n  Telemundo (Spanish\, schedule + TV):
+  https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026\n  FOX On
+ e (English\, stream all 104 matches): https://www.fox.com/soccer/fifa-worl
+ d-cup\n\nSchedule source: https://worldcuply.com/matches.ics
+URL:https://forzafootball.com/match/1219435613
+CATEGORIES:World Cup 2026,Group J
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🇦🇹 Austria vs 🇯🇴 Jordan · 3-1 kicks off in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-21@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260617T230000Z
+DTEND:20260618T004500Z
+SUMMARY:🇬🇭 Ghana vs 🇵🇦 Panama · 1-0
+LOCATION:BMO Field\, Toronto · Ontario · Canada
+DESCRIPTION:⚽ M21-L\nFIFA World Cup 2026 — Match 21 of 104\nStage: Group L\
+ nKickoff: Wed 17 Jun 2026 · 23:00 UTC\nResult: 1-0\n\nVenue:\n  Stadium: B
+ MO Field\n  Capacity: 45\,736\n  City: Toronto\n  State: Ontario\n  Countr
+ y: Canada\n  Stadium info: https://en.wikipedia.org/wiki/BMO_Field\n\nMatc
+ h page:\n  Forza (lineups\, live score\, stats): https://forzafootball.com
+ /match/1219435622\n\nWatch:\n  Peacock (Spanish\, stream all 104 matches):
+  https://www.peacocktv.com/watch/sports-La-Copa-Mundial-de-la-FIFA-2026\n 
+  Telemundo (Spanish\, schedule + TV): https://www.telemundo.com/deportes/c
+ opa-mundial-de-la-fifa-2026\n  FOX One (English\, stream all 104 matches):
+  https://www.fox.com/soccer/fifa-world-cup\n\nSchedule source: https://wor
+ ldcuply.com/matches.ics
+URL:https://forzafootball.com/match/1219435622
+CATEGORIES:World Cup 2026,Group L
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🇬🇭 Ghana vs 🇵🇦 Panama · 1-0 kicks off in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-22@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260617T200000Z
+DTEND:20260617T214500Z
+SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 England vs 🇭🇷 Croatia · 4-2
+LOCATION:AT&T Stadium\, Arlington (Dallas area) · Texas · United States
+DESCRIPTION:⚽ M22-L\nFIFA World Cup 2026 — Match 22 of 104\nStage: Group L\
+ nKickoff: Wed 17 Jun 2026 · 20:00 UTC\nResult: 4-2\n\nVenue:\n  Stadium: A
+ T&T Stadium\n  Capacity: 80\,000\n  City: Arlington (Dallas area)\n  State
+ : Texas\n  Country: United States\n  Stadium info: https://en.wikipedia.or
+ g/wiki/AT%26T_Stadium\n\nMatch page:\n  Forza (lineups\, live score\, stat
+ s): https://forzafootball.com/match/1219435621\n\nWatch:\n  Peacock (Spani
+ sh\, stream all 104 matches): https://www.peacocktv.com/watch/sports-La-Co
+ pa-Mundial-de-la-FIFA-2026\n  Telemundo (Spanish\, schedule + TV): https:/
+ /www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026\n  FOX One (Engli
+ sh\, stream all 104 matches): https://www.fox.com/soccer/fifa-world-cup\n\
+ nSchedule source: https://worldcuply.com/matches.ics
+URL:https://forzafootball.com/match/1219435621
+CATEGORIES:World Cup 2026,Group L
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏴󠁧󠁢󠁥󠁮󠁧󠁿 England vs 🇭🇷 Croatia · 4-2 kicks off in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-23@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260617T170000Z
+DTEND:20260617T184500Z
+SUMMARY:🇵🇹 Portugal vs 🇨🇩 DR Congo · 1-1
+LOCATION:NRG Stadium\, Houston · Texas · United States
+DESCRIPTION:⚽ M23-K\nFIFA World Cup 2026 — Match 23 of 104\nStage: Group K\
+ nKickoff: Wed 17 Jun 2026 · 17:00 UTC\nResult: 1-1\n\nVenue:\n  Stadium: N
+ RG Stadium\n  Capacity: 72\,220\n  City: Houston\n  State: Texas\n  Countr
+ y: United States\n  Stadium info: https://en.wikipedia.org/wiki/NRG_Stadiu
+ m\n\nMatch page:\n  Forza (lineups\, live score\, stats): https://forzafoo
+ tball.com/match/1219437903\n\nWatch:\n  Peacock (Spanish\, stream all 104 
+ matches): https://www.peacocktv.com/watch/sports-La-Copa-Mundial-de-la-FIF
+ A-2026\n  Telemundo (Spanish\, schedule + TV): https://www.telemundo.com/d
+ eportes/copa-mundial-de-la-fifa-2026\n  FOX One (English\, stream all 104 
+ matches): https://www.fox.com/soccer/fifa-world-cup\n\nSchedule source: ht
+ tps://worldcuply.com/matches.ics
+URL:https://forzafootball.com/match/1219437903
+CATEGORIES:World Cup 2026,Group K
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🇵🇹 Portugal vs 🇨🇩 DR Congo · 1-1 kicks off in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-24@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260618T020000Z
+DTEND:20260618T034500Z
+SUMMARY:🇺🇿 Uzbekistan vs 🇨🇴 Colombia · 1-3
+LOCATION:Estadio Azteca\, Mexico City · CDMX · Mexico
+DESCRIPTION:⚽ M24-K\nFIFA World Cup 2026 — Match 24 of 104\nStage: Group K\
+ nKickoff: Thu 18 Jun 2026 · 02:00 UTC\nResult: 1-3\n\nVenue:\n  Stadium: E
+ stadio Azteca\n  Capacity: 87\,523\n  City: Mexico City\n  State: CDMX\n  
+ Country: Mexico\n  Stadium info: https://en.wikipedia.org/wiki/Estadio_Azt
+ eca\n\nMatch page:\n  Forza (lineups\, live score\, stats): https://forzaf
+ ootball.com/match/1219435618\n\nWatch:\n  Peacock (Spanish\, stream all 10
+ 4 matches): https://www.peacocktv.com/watch/sports-La-Copa-Mundial-de-la-F
+ IFA-2026\n  Telemundo (Spanish\, schedule + TV): https://www.telemundo.com
+ /deportes/copa-mundial-de-la-fifa-2026\n  FOX One (English\, stream all 10
+ 4 matches): https://www.fox.com/soccer/fifa-world-cup\n\nSchedule source: 
+ https://worldcuply.com/matches.ics
+URL:https://forzafootball.com/match/1219435618
+CATEGORIES:World Cup 2026,Group K
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🇺🇿 Uzbekistan vs 🇨🇴 Colombia · 1-3 kicks off in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-25@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260618T160000Z
+DTEND:20260618T174500Z
+SUMMARY:🇨🇿 Czech Republic vs 🇿🇦 South Africa · 1-1
+LOCATION:Mercedes-Benz Stadium\, Atlanta · Georgia · United States
+DESCRIPTION:⚽ M25-A\nFIFA World Cup 2026 — Match 25 of 104\nStage: Group A\
+ nKickoff: Thu 18 Jun 2026 · 16:00 UTC\nResult: 1-1\n\nVenue:\n  Stadium: M
+ ercedes-Benz Stadium\n  Capacity: 71\,000\n  City: Atlanta\n  State: Georg
+ ia\n  Country: United States\n  Stadium info: https://en.wikipedia.org/wik
+ i/Mercedes-Benz_Stadium\n\nMatch page:\n  Forza (lineups\, live score\, st
+ ats): https://forzafootball.com/match/1219437889\n\nWatch:\n  Peacock (Spa
+ nish\, stream all 104 matches): https://www.peacocktv.com/watch/sports-La-
+ Copa-Mundial-de-la-FIFA-2026\n  Telemundo (Spanish\, schedule + TV): https
+ ://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026\n  FOX One (Eng
+ lish\, stream all 104 matches): https://www.fox.com/soccer/fifa-world-cup\
+ n\nSchedule source: https://worldcuply.com/matches.ics
+URL:https://forzafootball.com/match/1219437889
+CATEGORIES:World Cup 2026,Group A
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🇨🇿 Czech Republic vs 🇿🇦 South Africa · 1-1 kicks off in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-26@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260618T190000Z
+DTEND:20260618T204500Z
+SUMMARY:🇨🇭 Switzerland vs 🇧🇦 Bosnia and Herzegovina · 4-1
+LOCATION:SoFi Stadium\, Los Angeles (Inglewood) · California · United State
+ s
+DESCRIPTION:⚽ M26-B\nFIFA World Cup 2026 — Match 26 of 104\nStage: Group B\
+ nKickoff: Thu 18 Jun 2026 · 19:00 UTC\nResult: 4-1\n\nVenue:\n  Stadium: S
+ oFi Stadium\n  Capacity: 70\,240\n  City: Los Angeles (Inglewood)\n  State
+ : California\n  Country: United States\n  Stadium info: https://en.wikiped
+ ia.org/wiki/SoFi_Stadium\n\nMatch page:\n  Forza (lineups\, live score\, s
+ tats): https://forzafootball.com/match/1219437892\n\nWatch:\n  Peacock (Sp
+ anish\, stream all 104 matches): https://www.peacocktv.com/watch/sports-La
+ -Copa-Mundial-de-la-FIFA-2026\n  Telemundo (Spanish\, schedule + TV): http
+ s://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026\n  FOX One (En
+ glish\, stream all 104 matches): https://www.fox.com/soccer/fifa-world-cup
+ \n\nSchedule source: https://worldcuply.com/matches.ics
+URL:https://forzafootball.com/match/1219437892
+CATEGORIES:World Cup 2026,Group B
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🇨🇭 Switzerland vs 🇧🇦 Bosnia and Herzegovina · 4-1 kicks off in 
+ 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-27@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260618T220000Z
+DTEND:20260618T234500Z
+SUMMARY:🇨🇦 Canada vs 🇶🇦 Qatar · 6-0
+LOCATION:BC Place\, Vancouver · British Columbia · Canada
+DESCRIPTION:⚽ M27-B\nFIFA World Cup 2026 — Match 27 of 104\nStage: Group B\
+ nKickoff: Thu 18 Jun 2026 · 22:00 UTC\nResult: 6-0\n\nVenue:\n  Stadium: B
+ C Place\n  Capacity: 54\,000\n  City: Vancouver\n  State: British Columbia
+ \n  Country: Canada\n  Stadium info: https://en.wikipedia.org/wiki/BC_Plac
+ e\n\nMatch page:\n  Forza (lineups\, live score\, stats): https://forzafoo
+ tball.com/match/1219435450\n\nWatch:\n  Peacock (Spanish\, stream all 104 
+ matches): https://www.peacocktv.com/watch/sports-La-Copa-Mundial-de-la-FIF
+ A-2026\n  Telemundo (Spanish\, schedule + TV): https://www.telemundo.com/d
+ eportes/copa-mundial-de-la-fifa-2026\n  FOX One (English\, stream all 104 
+ matches): https://www.fox.com/soccer/fifa-world-cup\n\nSchedule source: ht
+ tps://worldcuply.com/matches.ics
+URL:https://forzafootball.com/match/1219435450
+CATEGORIES:World Cup 2026,Group B
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🇨🇦 Canada vs 🇶🇦 Qatar · 6-0 kicks off in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-28@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260619T010000Z
+DTEND:20260619T024500Z
+SUMMARY:🇲🇽 Mexico vs 🇰🇷 South Korea · 1-0
+LOCATION:Estadio Akron\, Guadalajara · Jalisco · Mexico
+DESCRIPTION:⚽ M28-A\nFIFA World Cup 2026 — Match 28 of 104\nStage: Group A\
+ nKickoff: Fri 19 Jun 2026 · 01:00 UTC\nResult: 1-0\n\nVenue:\n  Stadium: E
+ stadio Akron\n  Capacity: 49\,850\n  City: Guadalajara\n  State: Jalisco\n
+   Country: Mexico\n  Stadium info: https://en.wikipedia.org/wiki/Estadio_A
+ kron\n\nMatch page:\n  Forza (lineups\, live score\, stats): https://forza
+ football.com/match/1219435447\n\nWatch:\n  Peacock (Spanish\, stream all 1
+ 04 matches): https://www.peacocktv.com/watch/sports-La-Copa-Mundial-de-la-
+ FIFA-2026\n  Telemundo (Spanish\, schedule + TV): https://www.telemundo.co
+ m/deportes/copa-mundial-de-la-fifa-2026\n  FOX One (English\, stream all 1
+ 04 matches): https://www.fox.com/soccer/fifa-world-cup\n\nSchedule source:
+  https://worldcuply.com/matches.ics
+URL:https://forzafootball.com/match/1219435447
+CATEGORIES:World Cup 2026,Group A
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🇲🇽 Mexico vs 🇰🇷 South Korea · 1-0 kicks off in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-29@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260620T010000Z
+DTEND:20260620T024500Z
+SUMMARY:🇧🇷 Brazil vs 🇭🇹 Haiti
+LOCATION:Lincoln Financial Field\, Philadelphia · Pennsylvania · United Sta
+ tes
+DESCRIPTION:⚽ M29-C\nFIFA World Cup 2026 — Match 29 of 104\nStage: Group C\
+ nKickoff: Sat 20 Jun 2026 · 01:00 UTC\nResult: TBD\n\nVenue:\n  Stadium: L
+ incoln Financial Field\n  Capacity: 69\,796\n  City: Philadelphia\n  State
+ : Pennsylvania\n  Country: United States\n  Stadium info: https://en.wikip
+ edia.org/wiki/Lincoln_Financial_Field\n\nMatch page:\n  Forza (lineups\, l
+ ive score\, stats): https://forzafootball.com/match/1219435457\n\nWatch:\n
+   Peacock (Spanish\, stream all 104 matches): https://www.peacocktv.com/wa
+ tch/sports-La-Copa-Mundial-de-la-FIFA-2026\n  Telemundo (Spanish\, schedul
+ e + TV): https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026\n
+   FOX One (English\, stream all 104 matches): https://www.fox.com/soccer/f
+ ifa-world-cup\n\nSchedule source: https://worldcuply.com/matches.ics
+URL:https://forzafootball.com/match/1219435457
+CATEGORIES:World Cup 2026,Group C
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🇧🇷 Brazil vs 🇭🇹 Haiti kicks off in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-30@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260619T220000Z
+DTEND:20260619T234500Z
+SUMMARY:🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland vs 🇲🇦 Morocco
+LOCATION:Gillette Stadium\, Foxborough (Boston area) · Massachusetts · Unit
+ ed States
+DESCRIPTION:⚽ M30-C\nFIFA World Cup 2026 — Match 30 of 104\nStage: Group C\
+ nKickoff: Fri 19 Jun 2026 · 22:00 UTC\nResult: TBD\n\nVenue:\n  Stadium: G
+ illette Stadium\n  Capacity: 65\,878\n  City: Foxborough (Boston area)\n  
+ State: Massachusetts\n  Country: United States\n  Stadium info: https://en
+ .wikipedia.org/wiki/Gillette_Stadium\n\nMatch page:\n  Forza (lineups\, li
+ ve score\, stats): https://forzafootball.com/match/1219435459\n\nWatch:\n 
+  Peacock (Spanish\, stream all 104 matches): https://www.peacocktv.com/wat
+ ch/sports-La-Copa-Mundial-de-la-FIFA-2026\n  Telemundo (Spanish\, schedule
+  + TV): https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026\n 
+  FOX One (English\, stream all 104 matches): https://www.fox.com/soccer/fi
+ fa-world-cup\n\nSchedule source: https://worldcuply.com/matches.ics
+URL:https://forzafootball.com/match/1219435459
+CATEGORIES:World Cup 2026,Group C
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland vs 🇲🇦 Morocco kicks off in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-31@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260620T030000Z
+DTEND:20260620T044500Z
+SUMMARY:🇹🇷 Turkey vs 🇵🇾 Paraguay
+LOCATION:Levi's Stadium\, Santa Clara (Bay Area) · California · United Stat
+ es
+DESCRIPTION:⚽ M31-D\nFIFA World Cup 2026 — Match 31 of 104\nStage: Group D\
+ nKickoff: Sat 20 Jun 2026 · 03:00 UTC\nResult: TBD\n\nVenue:\n  Stadium: L
+ evi's Stadium\n  Capacity: 68\,500\n  City: Santa Clara (Bay Area)\n  Stat
+ e: California\n  Country: United States\n  Stadium info: https://en.wikipe
+ dia.org/wiki/Levi%27s_Stadium\n\nMatch page:\n  Forza (lineups\, live scor
+ e\, stats): https://forzafootball.com/match/1219437896\n\nWatch:\n  Peacoc
+ k (Spanish\, stream all 104 matches): https://www.peacocktv.com/watch/spor
+ ts-La-Copa-Mundial-de-la-FIFA-2026\n  Telemundo (Spanish\, schedule + TV):
+  https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026\n  FOX On
+ e (English\, stream all 104 matches): https://www.fox.com/soccer/fifa-worl
+ d-cup\n\nSchedule source: https://worldcuply.com/matches.ics
+URL:https://forzafootball.com/match/1219437896
+CATEGORIES:World Cup 2026,Group D
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🇹🇷 Turkey vs 🇵🇾 Paraguay kicks off in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-32@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260619T190000Z
+DTEND:20260619T204500Z
+SUMMARY:🇺🇸 United States vs 🇦🇺 Australia
+LOCATION:Lumen Field\, Seattle · Washington · United States
+DESCRIPTION:⚽ M32-D\nFIFA World Cup 2026 — Match 32 of 104\nStage: Group D\
+ nKickoff: Fri 19 Jun 2026 · 19:00 UTC\nResult: TBD\n\nVenue:\n  Stadium: L
+ umen Field\n  Capacity: 68\,760\n  City: Seattle\n  State: Washington\n  C
+ ountry: United States\n  Stadium info: https://en.wikipedia.org/wiki/Lumen
+ _Field\n\nMatch page:\n  Forza (lineups\, live score\, stats): https://for
+ zafootball.com/match/1219435453\n\nWatch:\n  Peacock (Spanish\, stream all
+  104 matches): https://www.peacocktv.com/watch/sports-La-Copa-Mundial-de-l
+ a-FIFA-2026\n  Telemundo (Spanish\, schedule + TV): https://www.telemundo.
+ com/deportes/copa-mundial-de-la-fifa-2026\n  FOX One (English\, stream all
+  104 matches): https://www.fox.com/soccer/fifa-world-cup\n\nSchedule sourc
+ e: https://worldcuply.com/matches.ics
+URL:https://forzafootball.com/match/1219435453
+CATEGORIES:World Cup 2026,Group D
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🇺🇸 United States vs 🇦🇺 Australia kicks off in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-33@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260620T200000Z
+DTEND:20260620T214500Z
+SUMMARY:🇩🇪 Germany vs 🇨🇮 Ivory Coast
+LOCATION:BMO Field\, Toronto · Ontario · Canada
+DESCRIPTION:⚽ M33-E\nFIFA World Cup 2026 — Match 33 of 104\nStage: Group E\
+ nKickoff: Sat 20 Jun 2026 · 20:00 UTC\nResult: TBD\n\nVenue:\n  Stadium: B
+ MO Field\n  Capacity: 45\,736\n  City: Toronto\n  State: Ontario\n  Countr
+ y: Canada\n  Stadium info: https://en.wikipedia.org/wiki/BMO_Field\n\nMatc
+ h page:\n  Forza (lineups\, live score\, stats): https://forzafootball.com
+ /match/1219435593\n\nWatch:\n  Peacock (Spanish\, stream all 104 matches):
+  https://www.peacocktv.com/watch/sports-La-Copa-Mundial-de-la-FIFA-2026\n 
+  Telemundo (Spanish\, schedule + TV): https://www.telemundo.com/deportes/c
+ opa-mundial-de-la-fifa-2026\n  FOX One (English\, stream all 104 matches):
+  https://www.fox.com/soccer/fifa-world-cup\n\nSchedule source: https://wor
+ ldcuply.com/matches.ics
+URL:https://forzafootball.com/match/1219435593
+CATEGORIES:World Cup 2026,Group E
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🇩🇪 Germany vs 🇨🇮 Ivory Coast kicks off in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-34@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260621T000000Z
+DTEND:20260621T014500Z
+SUMMARY:🇪🇨 Ecuador vs 🇨🇼 Curaçao
+LOCATION:Arrowhead Stadium\, Kansas City · Missouri · United States
+DESCRIPTION:⚽ M34-E\nFIFA World Cup 2026 — Match 34 of 104\nStage: Group E\
+ nKickoff: Sun 21 Jun 2026 · 00:00 UTC\nResult: TBD\n\nVenue:\n  Stadium: A
+ rrowhead Stadium\n  Capacity: 76\,416\n  City: Kansas City\n  State: Misso
+ uri\n  Country: United States\n  Stadium info: https://en.wikipedia.org/wi
+ ki/Arrowhead_Stadium\n\nMatch page:\n  Forza (lineups\, live score\, stats
+ ): https://forzafootball.com/match/1219435594\n\nWatch:\n  Peacock (Spanis
+ h\, stream all 104 matches): https://www.peacocktv.com/watch/sports-La-Cop
+ a-Mundial-de-la-FIFA-2026\n  Telemundo (Spanish\, schedule + TV): https://
+ www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026\n  FOX One (Englis
+ h\, stream all 104 matches): https://www.fox.com/soccer/fifa-world-cup\n\n
+ Schedule source: https://worldcuply.com/matches.ics
+URL:https://forzafootball.com/match/1219435594
+CATEGORIES:World Cup 2026,Group E
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🇪🇨 Ecuador vs 🇨🇼 Curaçao kicks off in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-35@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260620T170000Z
+DTEND:20260620T184500Z
+SUMMARY:🇳🇱 Netherlands vs 🇸🇪 Sweden
+LOCATION:NRG Stadium\, Houston · Texas · United States
+DESCRIPTION:⚽ M35-F\nFIFA World Cup 2026 — Match 35 of 104\nStage: Group F\
+ nKickoff: Sat 20 Jun 2026 · 17:00 UTC\nResult: TBD\n\nVenue:\n  Stadium: N
+ RG Stadium\n  Capacity: 72\,220\n  City: Houston\n  State: Texas\n  Countr
+ y: United States\n  Stadium info: https://en.wikipedia.org/wiki/NRG_Stadiu
+ m\n\nMatch page:\n  Forza (lineups\, live score\, stats): https://forzafoo
+ tball.com/match/1219437898\n\nWatch:\n  Peacock (Spanish\, stream all 104 
+ matches): https://www.peacocktv.com/watch/sports-La-Copa-Mundial-de-la-FIF
+ A-2026\n  Telemundo (Spanish\, schedule + TV): https://www.telemundo.com/d
+ eportes/copa-mundial-de-la-fifa-2026\n  FOX One (English\, stream all 104 
+ matches): https://www.fox.com/soccer/fifa-world-cup\n\nSchedule source: ht
+ tps://worldcuply.com/matches.ics
+URL:https://forzafootball.com/match/1219437898
+CATEGORIES:World Cup 2026,Group F
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🇳🇱 Netherlands vs 🇸🇪 Sweden kicks off in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-36@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260621T040000Z
+DTEND:20260621T054500Z
+SUMMARY:🇹🇳 Tunisia vs 🇯🇵 Japan
+LOCATION:Estadio BBVA\, Monterrey · Nuevo León · Mexico
+DESCRIPTION:⚽ M36-F\nFIFA World Cup 2026 — Match 36 of 104\nStage: Group F\
+ nKickoff: Sun 21 Jun 2026 · 04:00 UTC\nResult: TBD\n\nVenue:\n  Stadium: E
+ stadio BBVA\n  Capacity: 53\,500\n  City: Monterrey\n  State: Nuevo León\n
+   Country: Mexico\n  Stadium info: https://en.wikipedia.org/wiki/Estadio_B
+ BVA\n\nMatch page:\n  Forza (lineups\, live score\, stats): https://forzaf
+ ootball.com/match/1219435462\n\nWatch:\n  Peacock (Spanish\, stream all 10
+ 4 matches): https://www.peacocktv.com/watch/sports-La-Copa-Mundial-de-la-F
+ IFA-2026\n  Telemundo (Spanish\, schedule + TV): https://www.telemundo.com
+ /deportes/copa-mundial-de-la-fifa-2026\n  FOX One (English\, stream all 10
+ 4 matches): https://www.fox.com/soccer/fifa-world-cup\n\nSchedule source: 
+ https://worldcuply.com/matches.ics
+URL:https://forzafootball.com/match/1219435462
+CATEGORIES:World Cup 2026,Group F
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🇹🇳 Tunisia vs 🇯🇵 Japan kicks off in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-37@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260621T220000Z
+DTEND:20260621T234500Z
+SUMMARY:🇺🇾 Uruguay vs 🇨🇻 Cape Verde
+LOCATION:Hard Rock Stadium\, Miami Gardens · Florida · United States
+DESCRIPTION:⚽ M37-H\nFIFA World Cup 2026 — Match 37 of 104\nStage: Group H\
+ nKickoff: Sun 21 Jun 2026 · 22:00 UTC\nResult: TBD\n\nVenue:\n  Stadium: H
+ ard Rock Stadium\n  Capacity: 65\,326\n  City: Miami Gardens\n  State: Flo
+ rida\n  Country: United States\n  Stadium info: https://en.wikipedia.org/w
+ iki/Hard_Rock_Stadium\n\nMatch page:\n  Forza (lineups\, live score\, stat
+ s): https://forzafootball.com/match/1219435607\n\nWatch:\n  Peacock (Spani
+ sh\, stream all 104 matches): https://www.peacocktv.com/watch/sports-La-Co
+ pa-Mundial-de-la-FIFA-2026\n  Telemundo (Spanish\, schedule + TV): https:/
+ /www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026\n  FOX One (Engli
+ sh\, stream all 104 matches): https://www.fox.com/soccer/fifa-world-cup\n\
+ nSchedule source: https://worldcuply.com/matches.ics
+URL:https://forzafootball.com/match/1219435607
+CATEGORIES:World Cup 2026,Group H
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🇺🇾 Uruguay vs 🇨🇻 Cape Verde kicks off in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-38@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260621T160000Z
+DTEND:20260621T174500Z
+SUMMARY:🇪🇸 Spain vs 🇸🇦 Saudi Arabia
+LOCATION:Mercedes-Benz Stadium\, Atlanta · Georgia · United States
+DESCRIPTION:⚽ M38-H\nFIFA World Cup 2026 — Match 38 of 104\nStage: Group H\
+ nKickoff: Sun 21 Jun 2026 · 16:00 UTC\nResult: TBD\n\nVenue:\n  Stadium: M
+ ercedes-Benz Stadium\n  Capacity: 71\,000\n  City: Atlanta\n  State: Georg
+ ia\n  Country: United States\n  Stadium info: https://en.wikipedia.org/wik
+ i/Mercedes-Benz_Stadium\n\nMatch page:\n  Forza (lineups\, live score\, st
+ ats): https://forzafootball.com/match/1219435605\n\nWatch:\n  Peacock (Spa
+ nish\, stream all 104 matches): https://www.peacocktv.com/watch/sports-La-
+ Copa-Mundial-de-la-FIFA-2026\n  Telemundo (Spanish\, schedule + TV): https
+ ://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026\n  FOX One (Eng
+ lish\, stream all 104 matches): https://www.fox.com/soccer/fifa-world-cup\
+ n\nSchedule source: https://worldcuply.com/matches.ics
+URL:https://forzafootball.com/match/1219435605
+CATEGORIES:World Cup 2026,Group H
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🇪🇸 Spain vs 🇸🇦 Saudi Arabia kicks off in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-39@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260621T190000Z
+DTEND:20260621T204500Z
+SUMMARY:🇧🇪 Belgium vs 🇮🇷 Iran
+LOCATION:SoFi Stadium\, Los Angeles (Inglewood) · California · United State
+ s
+DESCRIPTION:⚽ M39-G\nFIFA World Cup 2026 — Match 39 of 104\nStage: Group G\
+ nKickoff: Sun 21 Jun 2026 · 19:00 UTC\nResult: TBD\n\nVenue:\n  Stadium: S
+ oFi Stadium\n  Capacity: 70\,240\n  City: Los Angeles (Inglewood)\n  State
+ : California\n  Country: United States\n  Stadium info: https://en.wikiped
+ ia.org/wiki/SoFi_Stadium\n\nMatch page:\n  Forza (lineups\, live score\, s
+ tats): https://forzafootball.com/match/1219435598\n\nWatch:\n  Peacock (Sp
+ anish\, stream all 104 matches): https://www.peacocktv.com/watch/sports-La
+ -Copa-Mundial-de-la-FIFA-2026\n  Telemundo (Spanish\, schedule + TV): http
+ s://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026\n  FOX One (En
+ glish\, stream all 104 matches): https://www.fox.com/soccer/fifa-world-cup
+ \n\nSchedule source: https://worldcuply.com/matches.ics
+URL:https://forzafootball.com/match/1219435598
+CATEGORIES:World Cup 2026,Group G
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🇧🇪 Belgium vs 🇮🇷 Iran kicks off in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-40@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260622T010000Z
+DTEND:20260622T024500Z
+SUMMARY:🇳🇿 New Zealand vs 🇪🇬 Egypt
+LOCATION:BC Place\, Vancouver · British Columbia · Canada
+DESCRIPTION:⚽ M40-G\nFIFA World Cup 2026 — Match 40 of 104\nStage: Group G\
+ nKickoff: Mon 22 Jun 2026 · 01:00 UTC\nResult: TBD\n\nVenue:\n  Stadium: B
+ C Place\n  Capacity: 54\,000\n  City: Vancouver\n  State: British Columbia
+ \n  Country: Canada\n  Stadium info: https://en.wikipedia.org/wiki/BC_Plac
+ e\n\nMatch page:\n  Forza (lineups\, live score\, stats): https://forzafoo
+ tball.com/match/1219435600\n\nWatch:\n  Peacock (Spanish\, stream all 104 
+ matches): https://www.peacocktv.com/watch/sports-La-Copa-Mundial-de-la-FIF
+ A-2026\n  Telemundo (Spanish\, schedule + TV): https://www.telemundo.com/d
+ eportes/copa-mundial-de-la-fifa-2026\n  FOX One (English\, stream all 104 
+ matches): https://www.fox.com/soccer/fifa-world-cup\n\nSchedule source: ht
+ tps://worldcuply.com/matches.ics
+URL:https://forzafootball.com/match/1219435600
+CATEGORIES:World Cup 2026,Group G
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🇳🇿 New Zealand vs 🇪🇬 Egypt kicks off in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-41@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260623T000000Z
+DTEND:20260623T014500Z
+SUMMARY:🇳🇴 Norway vs 🇸🇳 Senegal
+LOCATION:MetLife Stadium\, East Rutherford (NYC area) · New Jersey · United
+  States
+DESCRIPTION:⚽ M41-I\nFIFA World Cup 2026 — Match 41 of 104\nStage: Group I\
+ nKickoff: Tue 23 Jun 2026 · 00:00 UTC\nResult: TBD\n\nVenue:\n  Stadium: M
+ etLife Stadium\n  Capacity: 82\,500\n  City: East Rutherford (NYC area)\n 
+  State: New Jersey\n  Country: United States\n  Stadium info: https://en.w
+ ikipedia.org/wiki/MetLife_Stadium\n\nMatch page:\n  Forza (lineups\, live 
+ score\, stats): https://forzafootball.com/match/1219435610\n\nWatch:\n  Pe
+ acock (Spanish\, stream all 104 matches): https://www.peacocktv.com/watch/
+ sports-La-Copa-Mundial-de-la-FIFA-2026\n  Telemundo (Spanish\, schedule + 
+ TV): https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026\n  FO
+ X One (English\, stream all 104 matches): https://www.fox.com/soccer/fifa-
+ world-cup\n\nSchedule source: https://worldcuply.com/matches.ics
+URL:https://forzafootball.com/match/1219435610
+CATEGORIES:World Cup 2026,Group I
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🇳🇴 Norway vs 🇸🇳 Senegal kicks off in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-42@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260622T210000Z
+DTEND:20260622T224500Z
+SUMMARY:🇫🇷 France vs 🇮🇶 Iraq
+LOCATION:Lincoln Financial Field\, Philadelphia · Pennsylvania · United Sta
+ tes
+DESCRIPTION:⚽ M42-I\nFIFA World Cup 2026 — Match 42 of 104\nStage: Group I\
+ nKickoff: Mon 22 Jun 2026 · 21:00 UTC\nResult: TBD\n\nVenue:\n  Stadium: L
+ incoln Financial Field\n  Capacity: 69\,796\n  City: Philadelphia\n  State
+ : Pennsylvania\n  Country: United States\n  Stadium info: https://en.wikip
+ edia.org/wiki/Lincoln_Financial_Field\n\nMatch page:\n  Forza (lineups\, l
+ ive score\, stats): https://forzafootball.com/match/1219437901\n\nWatch:\n
+   Peacock (Spanish\, stream all 104 matches): https://www.peacocktv.com/wa
+ tch/sports-La-Copa-Mundial-de-la-FIFA-2026\n  Telemundo (Spanish\, schedul
+ e + TV): https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026\n
+   FOX One (English\, stream all 104 matches): https://www.fox.com/soccer/f
+ ifa-world-cup\n\nSchedule source: https://worldcuply.com/matches.ics
+URL:https://forzafootball.com/match/1219437901
+CATEGORIES:World Cup 2026,Group I
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🇫🇷 France vs 🇮🇶 Iraq kicks off in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-43@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260622T170000Z
+DTEND:20260622T184500Z
+SUMMARY:🇦🇷 Argentina vs 🇦🇹 Austria
+LOCATION:AT&T Stadium\, Arlington (Dallas area) · Texas · United States
+DESCRIPTION:⚽ M43-J\nFIFA World Cup 2026 — Match 43 of 104\nStage: Group J\
+ nKickoff: Mon 22 Jun 2026 · 17:00 UTC\nResult: TBD\n\nVenue:\n  Stadium: A
+ T&T Stadium\n  Capacity: 80\,000\n  City: Arlington (Dallas area)\n  State
+ : Texas\n  Country: United States\n  Stadium info: https://en.wikipedia.or
+ g/wiki/AT%26T_Stadium\n\nMatch page:\n  Forza (lineups\, live score\, stat
+ s): https://forzafootball.com/match/1219435615\n\nWatch:\n  Peacock (Spani
+ sh\, stream all 104 matches): https://www.peacocktv.com/watch/sports-La-Co
+ pa-Mundial-de-la-FIFA-2026\n  Telemundo (Spanish\, schedule + TV): https:/
+ /www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026\n  FOX One (Engli
+ sh\, stream all 104 matches): https://www.fox.com/soccer/fifa-world-cup\n\
+ nSchedule source: https://worldcuply.com/matches.ics
+URL:https://forzafootball.com/match/1219435615
+CATEGORIES:World Cup 2026,Group J
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🇦🇷 Argentina vs 🇦🇹 Austria kicks off in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-44@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260623T030000Z
+DTEND:20260623T044500Z
+SUMMARY:🇯🇴 Jordan vs 🇩🇿 Algeria
+LOCATION:Levi's Stadium\, Santa Clara (Bay Area) · California · United Stat
+ es
+DESCRIPTION:⚽ M44-J\nFIFA World Cup 2026 — Match 44 of 104\nStage: Group J\
+ nKickoff: Tue 23 Jun 2026 · 03:00 UTC\nResult: TBD\n\nVenue:\n  Stadium: L
+ evi's Stadium\n  Capacity: 68\,500\n  City: Santa Clara (Bay Area)\n  Stat
+ e: California\n  Country: United States\n  Stadium info: https://en.wikipe
+ dia.org/wiki/Levi%27s_Stadium\n\nMatch page:\n  Forza (lineups\, live scor
+ e\, stats): https://forzafootball.com/match/1219435614\n\nWatch:\n  Peacoc
+ k (Spanish\, stream all 104 matches): https://www.peacocktv.com/watch/spor
+ ts-La-Copa-Mundial-de-la-FIFA-2026\n  Telemundo (Spanish\, schedule + TV):
+  https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026\n  FOX On
+ e (English\, stream all 104 matches): https://www.fox.com/soccer/fifa-worl
+ d-cup\n\nSchedule source: https://worldcuply.com/matches.ics
+URL:https://forzafootball.com/match/1219435614
+CATEGORIES:World Cup 2026,Group J
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🇯🇴 Jordan vs 🇩🇿 Algeria kicks off in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-45@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260623T200000Z
+DTEND:20260623T214500Z
+SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 England vs 🇬🇭 Ghana
+LOCATION:Gillette Stadium\, Foxborough (Boston area) · Massachusetts · Unit
+ ed States
+DESCRIPTION:⚽ M45-L\nFIFA World Cup 2026 — Match 45 of 104\nStage: Group L\
+ nKickoff: Tue 23 Jun 2026 · 20:00 UTC\nResult: TBD\n\nVenue:\n  Stadium: G
+ illette Stadium\n  Capacity: 65\,878\n  City: Foxborough (Boston area)\n  
+ State: Massachusetts\n  Country: United States\n  Stadium info: https://en
+ .wikipedia.org/wiki/Gillette_Stadium\n\nMatch page:\n  Forza (lineups\, li
+ ve score\, stats): https://forzafootball.com/match/1219435623\n\nWatch:\n 
+  Peacock (Spanish\, stream all 104 matches): https://www.peacocktv.com/wat
+ ch/sports-La-Copa-Mundial-de-la-FIFA-2026\n  Telemundo (Spanish\, schedule
+  + TV): https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026\n 
+  FOX One (English\, stream all 104 matches): https://www.fox.com/soccer/fi
+ fa-world-cup\n\nSchedule source: https://worldcuply.com/matches.ics
+URL:https://forzafootball.com/match/1219435623
+CATEGORIES:World Cup 2026,Group L
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏴󠁧󠁢󠁥󠁮󠁧󠁿 England vs 🇬🇭 Ghana kicks off in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-46@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260623T230000Z
+DTEND:20260624T004500Z
+SUMMARY:🇵🇦 Panama vs 🇭🇷 Croatia
+LOCATION:BMO Field\, Toronto · Ontario · Canada
+DESCRIPTION:⚽ M46-L\nFIFA World Cup 2026 — Match 46 of 104\nStage: Group L\
+ nKickoff: Tue 23 Jun 2026 · 23:00 UTC\nResult: TBD\n\nVenue:\n  Stadium: B
+ MO Field\n  Capacity: 45\,736\n  City: Toronto\n  State: Ontario\n  Countr
+ y: Canada\n  Stadium info: https://en.wikipedia.org/wiki/BMO_Field\n\nMatc
+ h page:\n  Forza (lineups\, live score\, stats): https://forzafootball.com
+ /match/1219435624\n\nWatch:\n  Peacock (Spanish\, stream all 104 matches):
+  https://www.peacocktv.com/watch/sports-La-Copa-Mundial-de-la-FIFA-2026\n 
+  Telemundo (Spanish\, schedule + TV): https://www.telemundo.com/deportes/c
+ opa-mundial-de-la-fifa-2026\n  FOX One (English\, stream all 104 matches):
+  https://www.fox.com/soccer/fifa-world-cup\n\nSchedule source: https://wor
+ ldcuply.com/matches.ics
+URL:https://forzafootball.com/match/1219435624
+CATEGORIES:World Cup 2026,Group L
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🇵🇦 Panama vs 🇭🇷 Croatia kicks off in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-47@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260623T170000Z
+DTEND:20260623T184500Z
+SUMMARY:🇵🇹 Portugal vs 🇺🇿 Uzbekistan
+LOCATION:NRG Stadium\, Houston · Texas · United States
+DESCRIPTION:⚽ M47-K\nFIFA World Cup 2026 — Match 47 of 104\nStage: Group K\
+ nKickoff: Tue 23 Jun 2026 · 17:00 UTC\nResult: TBD\n\nVenue:\n  Stadium: N
+ RG Stadium\n  Capacity: 72\,220\n  City: Houston\n  State: Texas\n  Countr
+ y: United States\n  Stadium info: https://en.wikipedia.org/wiki/NRG_Stadiu
+ m\n\nMatch page:\n  Forza (lineups\, live score\, stats): https://forzafoo
+ tball.com/match/1219435619\n\nWatch:\n  Peacock (Spanish\, stream all 104 
+ matches): https://www.peacocktv.com/watch/sports-La-Copa-Mundial-de-la-FIF
+ A-2026\n  Telemundo (Spanish\, schedule + TV): https://www.telemundo.com/d
+ eportes/copa-mundial-de-la-fifa-2026\n  FOX One (English\, stream all 104 
+ matches): https://www.fox.com/soccer/fifa-world-cup\n\nSchedule source: ht
+ tps://worldcuply.com/matches.ics
+URL:https://forzafootball.com/match/1219435619
+CATEGORIES:World Cup 2026,Group K
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🇵🇹 Portugal vs 🇺🇿 Uzbekistan kicks off in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-48@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260624T020000Z
+DTEND:20260624T034500Z
+SUMMARY:🇨🇴 Colombia vs 🇨🇩 DR Congo
+LOCATION:Estadio Akron\, Guadalajara · Jalisco · Mexico
+DESCRIPTION:⚽ M48-K\nFIFA World Cup 2026 — Match 48 of 104\nStage: Group K\
+ nKickoff: Wed 24 Jun 2026 · 02:00 UTC\nResult: TBD\n\nVenue:\n  Stadium: E
+ stadio Akron\n  Capacity: 49\,850\n  City: Guadalajara\n  State: Jalisco\n
+   Country: Mexico\n  Stadium info: https://en.wikipedia.org/wiki/Estadio_A
+ kron\n\nMatch page:\n  Forza (lineups\, live score\, stats): https://forza
+ football.com/match/1219437904\n\nWatch:\n  Peacock (Spanish\, stream all 1
+ 04 matches): https://www.peacocktv.com/watch/sports-La-Copa-Mundial-de-la-
+ FIFA-2026\n  Telemundo (Spanish\, schedule + TV): https://www.telemundo.co
+ m/deportes/copa-mundial-de-la-fifa-2026\n  FOX One (English\, stream all 1
+ 04 matches): https://www.fox.com/soccer/fifa-world-cup\n\nSchedule source:
+  https://worldcuply.com/matches.ics
+URL:https://forzafootball.com/match/1219437904
+CATEGORIES:World Cup 2026,Group K
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🇨🇴 Colombia vs 🇨🇩 DR Congo kicks off in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-49@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260624T220000Z
+DTEND:20260624T234500Z
+SUMMARY:🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland vs 🇧🇷 Brazil
+LOCATION:Hard Rock Stadium\, Miami Gardens · Florida · United States
+DESCRIPTION:⚽ M49-C\nFIFA World Cup 2026 — Match 49 of 104\nStage: Group C\
+ nKickoff: Wed 24 Jun 2026 · 22:00 UTC\nResult: TBD\n\nVenue:\n  Stadium: H
+ ard Rock Stadium\n  Capacity: 65\,326\n  City: Miami Gardens\n  State: Flo
+ rida\n  Country: United States\n  Stadium info: https://en.wikipedia.org/w
+ iki/Hard_Rock_Stadium\n\nMatch page:\n  Forza (lineups\, live score\, stat
+ s): https://forzafootball.com/match/1219435458\n\nWatch:\n  Peacock (Spani
+ sh\, stream all 104 matches): https://www.peacocktv.com/watch/sports-La-Co
+ pa-Mundial-de-la-FIFA-2026\n  Telemundo (Spanish\, schedule + TV): https:/
+ /www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026\n  FOX One (Engli
+ sh\, stream all 104 matches): https://www.fox.com/soccer/fifa-world-cup\n\
+ nSchedule source: https://worldcuply.com/matches.ics
+URL:https://forzafootball.com/match/1219435458
+CATEGORIES:World Cup 2026,Group C
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland vs 🇧🇷 Brazil kicks off in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-50@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260624T220000Z
+DTEND:20260624T234500Z
+SUMMARY:🇲🇦 Morocco vs 🇭🇹 Haiti
+LOCATION:Mercedes-Benz Stadium\, Atlanta · Georgia · United States
+DESCRIPTION:⚽ M50-C\nFIFA World Cup 2026 — Match 50 of 104\nStage: Group C\
+ nKickoff: Wed 24 Jun 2026 · 22:00 UTC\nResult: TBD\n\nVenue:\n  Stadium: M
+ ercedes-Benz Stadium\n  Capacity: 71\,000\n  City: Atlanta\n  State: Georg
+ ia\n  Country: United States\n  Stadium info: https://en.wikipedia.org/wik
+ i/Mercedes-Benz_Stadium\n\nMatch page:\n  Forza (lineups\, live score\, st
+ ats): https://forzafootball.com/match/1219435460\n\nWatch:\n  Peacock (Spa
+ nish\, stream all 104 matches): https://www.peacocktv.com/watch/sports-La-
+ Copa-Mundial-de-la-FIFA-2026\n  Telemundo (Spanish\, schedule + TV): https
+ ://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026\n  FOX One (Eng
+ lish\, stream all 104 matches): https://www.fox.com/soccer/fifa-world-cup\
+ n\nSchedule source: https://worldcuply.com/matches.ics
+URL:https://forzafootball.com/match/1219435460
+CATEGORIES:World Cup 2026,Group C
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🇲🇦 Morocco vs 🇭🇹 Haiti kicks off in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-51@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260624T190000Z
+DTEND:20260624T204500Z
+SUMMARY:🇨🇭 Switzerland vs 🇨🇦 Canada
+LOCATION:BC Place\, Vancouver · British Columbia · Canada
+DESCRIPTION:⚽ M51-B\nFIFA World Cup 2026 — Match 51 of 104\nStage: Group B\
+ nKickoff: Wed 24 Jun 2026 · 19:00 UTC\nResult: TBD\n\nVenue:\n  Stadium: B
+ C Place\n  Capacity: 54\,000\n  City: Vancouver\n  State: British Columbia
+ \n  Country: Canada\n  Stadium info: https://en.wikipedia.org/wiki/BC_Plac
+ e\n\nMatch page:\n  Forza (lineups\, live score\, stats): https://forzafoo
+ tball.com/match/1219435451\n\nWatch:\n  Peacock (Spanish\, stream all 104 
+ matches): https://www.peacocktv.com/watch/sports-La-Copa-Mundial-de-la-FIF
+ A-2026\n  Telemundo (Spanish\, schedule + TV): https://www.telemundo.com/d
+ eportes/copa-mundial-de-la-fifa-2026\n  FOX One (English\, stream all 104 
+ matches): https://www.fox.com/soccer/fifa-world-cup\n\nSchedule source: ht
+ tps://worldcuply.com/matches.ics
+URL:https://forzafootball.com/match/1219435451
+CATEGORIES:World Cup 2026,Group B
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🇨🇭 Switzerland vs 🇨🇦 Canada kicks off in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-52@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260624T190000Z
+DTEND:20260624T204500Z
+SUMMARY:🇧🇦 Bosnia and Herzegovina vs 🇶🇦 Qatar
+LOCATION:Lumen Field\, Seattle · Washington · United States
+DESCRIPTION:⚽ M52-B\nFIFA World Cup 2026 — Match 52 of 104\nStage: Group B\
+ nKickoff: Wed 24 Jun 2026 · 19:00 UTC\nResult: TBD\n\nVenue:\n  Stadium: L
+ umen Field\n  Capacity: 68\,760\n  City: Seattle\n  State: Washington\n  C
+ ountry: United States\n  Stadium info: https://en.wikipedia.org/wiki/Lumen
+ _Field\n\nMatch page:\n  Forza (lineups\, live score\, stats): https://for
+ zafootball.com/match/1219437893\n\nWatch:\n  Peacock (Spanish\, stream all
+  104 matches): https://www.peacocktv.com/watch/sports-La-Copa-Mundial-de-l
+ a-FIFA-2026\n  Telemundo (Spanish\, schedule + TV): https://www.telemundo.
+ com/deportes/copa-mundial-de-la-fifa-2026\n  FOX One (English\, stream all
+  104 matches): https://www.fox.com/soccer/fifa-world-cup\n\nSchedule sourc
+ e: https://worldcuply.com/matches.ics
+URL:https://forzafootball.com/match/1219437893
+CATEGORIES:World Cup 2026,Group B
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🇧🇦 Bosnia and Herzegovina vs 🇶🇦 Qatar kicks off in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-53@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260625T010000Z
+DTEND:20260625T024500Z
+SUMMARY:🇨🇿 Czech Republic vs 🇲🇽 Mexico
+LOCATION:Estadio Azteca\, Mexico City · CDMX · Mexico
+DESCRIPTION:⚽ M53-A\nFIFA World Cup 2026 — Match 53 of 104\nStage: Group A\
+ nKickoff: Thu 25 Jun 2026 · 01:00 UTC\nResult: TBD\n\nVenue:\n  Stadium: E
+ stadio Azteca\n  Capacity: 87\,523\n  City: Mexico City\n  State: CDMX\n  
+ Country: Mexico\n  Stadium info: https://en.wikipedia.org/wiki/Estadio_Azt
+ eca\n\nMatch page:\n  Forza (lineups\, live score\, stats): https://forzaf
+ ootball.com/match/1219437890\n\nWatch:\n  Peacock (Spanish\, stream all 10
+ 4 matches): https://www.peacocktv.com/watch/sports-La-Copa-Mundial-de-la-F
+ IFA-2026\n  Telemundo (Spanish\, schedule + TV): https://www.telemundo.com
+ /deportes/copa-mundial-de-la-fifa-2026\n  FOX One (English\, stream all 10
+ 4 matches): https://www.fox.com/soccer/fifa-world-cup\n\nSchedule source: 
+ https://worldcuply.com/matches.ics
+URL:https://forzafootball.com/match/1219437890
+CATEGORIES:World Cup 2026,Group A
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🇨🇿 Czech Republic vs 🇲🇽 Mexico kicks off in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-54@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260625T010000Z
+DTEND:20260625T024500Z
+SUMMARY:🇿🇦 South Africa vs 🇰🇷 South Korea
+LOCATION:Estadio BBVA\, Monterrey · Nuevo León · Mexico
+DESCRIPTION:⚽ M54-A\nFIFA World Cup 2026 — Match 54 of 104\nStage: Group A\
+ nKickoff: Thu 25 Jun 2026 · 01:00 UTC\nResult: TBD\n\nVenue:\n  Stadium: E
+ stadio BBVA\n  Capacity: 53\,500\n  City: Monterrey\n  State: Nuevo León\n
+   Country: Mexico\n  Stadium info: https://en.wikipedia.org/wiki/Estadio_B
+ BVA\n\nMatch page:\n  Forza (lineups\, live score\, stats): https://forzaf
+ ootball.com/match/1219435448\n\nWatch:\n  Peacock (Spanish\, stream all 10
+ 4 matches): https://www.peacocktv.com/watch/sports-La-Copa-Mundial-de-la-F
+ IFA-2026\n  Telemundo (Spanish\, schedule + TV): https://www.telemundo.com
+ /deportes/copa-mundial-de-la-fifa-2026\n  FOX One (English\, stream all 10
+ 4 matches): https://www.fox.com/soccer/fifa-world-cup\n\nSchedule source: 
+ https://worldcuply.com/matches.ics
+URL:https://forzafootball.com/match/1219435448
+CATEGORIES:World Cup 2026,Group A
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🇿🇦 South Africa vs 🇰🇷 South Korea kicks off in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-55@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260625T200000Z
+DTEND:20260625T214500Z
+SUMMARY:🇨🇼 Curaçao vs 🇨🇮 Ivory Coast
+LOCATION:Lincoln Financial Field\, Philadelphia · Pennsylvania · United Sta
+ tes
+DESCRIPTION:⚽ M55-E\nFIFA World Cup 2026 — Match 55 of 104\nStage: Group E\
+ nKickoff: Thu 25 Jun 2026 · 20:00 UTC\nResult: TBD\n\nVenue:\n  Stadium: L
+ incoln Financial Field\n  Capacity: 69\,796\n  City: Philadelphia\n  State
+ : Pennsylvania\n  Country: United States\n  Stadium info: https://en.wikip
+ edia.org/wiki/Lincoln_Financial_Field\n\nMatch page:\n  Forza (lineups\, l
+ ive score\, stats): https://forzafootball.com/match/1219435596\n\nWatch:\n
+   Peacock (Spanish\, stream all 104 matches): https://www.peacocktv.com/wa
+ tch/sports-La-Copa-Mundial-de-la-FIFA-2026\n  Telemundo (Spanish\, schedul
+ e + TV): https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026\n
+   FOX One (English\, stream all 104 matches): https://www.fox.com/soccer/f
+ ifa-world-cup\n\nSchedule source: https://worldcuply.com/matches.ics
+URL:https://forzafootball.com/match/1219435596
+CATEGORIES:World Cup 2026,Group E
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🇨🇼 Curaçao vs 🇨🇮 Ivory Coast kicks off in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-56@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260625T200000Z
+DTEND:20260625T214500Z
+SUMMARY:🇪🇨 Ecuador vs 🇩🇪 Germany
+LOCATION:MetLife Stadium\, East Rutherford (NYC area) · New Jersey · United
+  States
+DESCRIPTION:⚽ M56-E\nFIFA World Cup 2026 — Match 56 of 104\nStage: Group E\
+ nKickoff: Thu 25 Jun 2026 · 20:00 UTC\nResult: TBD\n\nVenue:\n  Stadium: M
+ etLife Stadium\n  Capacity: 82\,500\n  City: East Rutherford (NYC area)\n 
+  State: New Jersey\n  Country: United States\n  Stadium info: https://en.w
+ ikipedia.org/wiki/MetLife_Stadium\n\nMatch page:\n  Forza (lineups\, live 
+ score\, stats): https://forzafootball.com/match/1219435595\n\nWatch:\n  Pe
+ acock (Spanish\, stream all 104 matches): https://www.peacocktv.com/watch/
+ sports-La-Copa-Mundial-de-la-FIFA-2026\n  Telemundo (Spanish\, schedule + 
+ TV): https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026\n  FO
+ X One (English\, stream all 104 matches): https://www.fox.com/soccer/fifa-
+ world-cup\n\nSchedule source: https://worldcuply.com/matches.ics
+URL:https://forzafootball.com/match/1219435595
+CATEGORIES:World Cup 2026,Group E
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🇪🇨 Ecuador vs 🇩🇪 Germany kicks off in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-57@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260625T230000Z
+DTEND:20260626T004500Z
+SUMMARY:🇯🇵 Japan vs 🇸🇪 Sweden
+LOCATION:AT&T Stadium\, Arlington (Dallas area) · Texas · United States
+DESCRIPTION:⚽ M57-F\nFIFA World Cup 2026 — Match 57 of 104\nStage: Group F\
+ nKickoff: Thu 25 Jun 2026 · 23:00 UTC\nResult: TBD\n\nVenue:\n  Stadium: A
+ T&T Stadium\n  Capacity: 80\,000\n  City: Arlington (Dallas area)\n  State
+ : Texas\n  Country: United States\n  Stadium info: https://en.wikipedia.or
+ g/wiki/AT%26T_Stadium\n\nMatch page:\n  Forza (lineups\, live score\, stat
+ s): https://forzafootball.com/match/1219437899\n\nWatch:\n  Peacock (Spani
+ sh\, stream all 104 matches): https://www.peacocktv.com/watch/sports-La-Co
+ pa-Mundial-de-la-FIFA-2026\n  Telemundo (Spanish\, schedule + TV): https:/
+ /www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026\n  FOX One (Engli
+ sh\, stream all 104 matches): https://www.fox.com/soccer/fifa-world-cup\n\
+ nSchedule source: https://worldcuply.com/matches.ics
+URL:https://forzafootball.com/match/1219437899
+CATEGORIES:World Cup 2026,Group F
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🇯🇵 Japan vs 🇸🇪 Sweden kicks off in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-58@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260625T230000Z
+DTEND:20260626T004500Z
+SUMMARY:🇹🇳 Tunisia vs 🇳🇱 Netherlands
+LOCATION:Arrowhead Stadium\, Kansas City · Missouri · United States
+DESCRIPTION:⚽ M58-F\nFIFA World Cup 2026 — Match 58 of 104\nStage: Group F\
+ nKickoff: Thu 25 Jun 2026 · 23:00 UTC\nResult: TBD\n\nVenue:\n  Stadium: A
+ rrowhead Stadium\n  Capacity: 76\,416\n  City: Kansas City\n  State: Misso
+ uri\n  Country: United States\n  Stadium info: https://en.wikipedia.org/wi
+ ki/Arrowhead_Stadium\n\nMatch page:\n  Forza (lineups\, live score\, stats
+ ): https://forzafootball.com/match/1219435463\n\nWatch:\n  Peacock (Spanis
+ h\, stream all 104 matches): https://www.peacocktv.com/watch/sports-La-Cop
+ a-Mundial-de-la-FIFA-2026\n  Telemundo (Spanish\, schedule + TV): https://
+ www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026\n  FOX One (Englis
+ h\, stream all 104 matches): https://www.fox.com/soccer/fifa-world-cup\n\n
+ Schedule source: https://worldcuply.com/matches.ics
+URL:https://forzafootball.com/match/1219435463
+CATEGORIES:World Cup 2026,Group F
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🇹🇳 Tunisia vs 🇳🇱 Netherlands kicks off in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-59@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260626T020000Z
+DTEND:20260626T034500Z
+SUMMARY:🇹🇷 Turkey vs 🇺🇸 United States
+LOCATION:SoFi Stadium\, Los Angeles (Inglewood) · California · United State
+ s
+DESCRIPTION:⚽ M59-D\nFIFA World Cup 2026 — Match 59 of 104\nStage: Group D\
+ nKickoff: Fri 26 Jun 2026 · 02:00 UTC\nResult: TBD\n\nVenue:\n  Stadium: S
+ oFi Stadium\n  Capacity: 70\,240\n  City: Los Angeles (Inglewood)\n  State
+ : California\n  Country: United States\n  Stadium info: https://en.wikiped
+ ia.org/wiki/SoFi_Stadium\n\nMatch page:\n  Forza (lineups\, live score\, s
+ tats): https://forzafootball.com/match/1219437895\n\nWatch:\n  Peacock (Sp
+ anish\, stream all 104 matches): https://www.peacocktv.com/watch/sports-La
+ -Copa-Mundial-de-la-FIFA-2026\n  Telemundo (Spanish\, schedule + TV): http
+ s://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026\n  FOX One (En
+ glish\, stream all 104 matches): https://www.fox.com/soccer/fifa-world-cup
+ \n\nSchedule source: https://worldcuply.com/matches.ics
+URL:https://forzafootball.com/match/1219437895
+CATEGORIES:World Cup 2026,Group D
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🇹🇷 Turkey vs 🇺🇸 United States kicks off in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-60@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260626T020000Z
+DTEND:20260626T034500Z
+SUMMARY:🇵🇾 Paraguay vs 🇦🇺 Australia
+LOCATION:Levi's Stadium\, Santa Clara (Bay Area) · California · United Stat
+ es
+DESCRIPTION:⚽ M60-D\nFIFA World Cup 2026 — Match 60 of 104\nStage: Group D\
+ nKickoff: Fri 26 Jun 2026 · 02:00 UTC\nResult: TBD\n\nVenue:\n  Stadium: L
+ evi's Stadium\n  Capacity: 68\,500\n  City: Santa Clara (Bay Area)\n  Stat
+ e: California\n  Country: United States\n  Stadium info: https://en.wikipe
+ dia.org/wiki/Levi%27s_Stadium\n\nMatch page:\n  Forza (lineups\, live scor
+ e\, stats): https://forzafootball.com/match/1219435454\n\nWatch:\n  Peacoc
+ k (Spanish\, stream all 104 matches): https://www.peacocktv.com/watch/spor
+ ts-La-Copa-Mundial-de-la-FIFA-2026\n  Telemundo (Spanish\, schedule + TV):
+  https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026\n  FOX On
+ e (English\, stream all 104 matches): https://www.fox.com/soccer/fifa-worl
+ d-cup\n\nSchedule source: https://worldcuply.com/matches.ics
+URL:https://forzafootball.com/match/1219435454
+CATEGORIES:World Cup 2026,Group D
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🇵🇾 Paraguay vs 🇦🇺 Australia kicks off in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-61@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260626T190000Z
+DTEND:20260626T204500Z
+SUMMARY:🇳🇴 Norway vs 🇫🇷 France
+LOCATION:Gillette Stadium\, Foxborough (Boston area) · Massachusetts · Unit
+ ed States
+DESCRIPTION:⚽ M61-I\nFIFA World Cup 2026 — Match 61 of 104\nStage: Group I\
+ nKickoff: Fri 26 Jun 2026 · 19:00 UTC\nResult: TBD\n\nVenue:\n  Stadium: G
+ illette Stadium\n  Capacity: 65\,878\n  City: Foxborough (Boston area)\n  
+ State: Massachusetts\n  Country: United States\n  Stadium info: https://en
+ .wikipedia.org/wiki/Gillette_Stadium\n\nMatch page:\n  Forza (lineups\, li
+ ve score\, stats): https://forzafootball.com/match/1219435611\n\nWatch:\n 
+  Peacock (Spanish\, stream all 104 matches): https://www.peacocktv.com/wat
+ ch/sports-La-Copa-Mundial-de-la-FIFA-2026\n  Telemundo (Spanish\, schedule
+  + TV): https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026\n 
+  FOX One (English\, stream all 104 matches): https://www.fox.com/soccer/fi
+ fa-world-cup\n\nSchedule source: https://worldcuply.com/matches.ics
+URL:https://forzafootball.com/match/1219435611
+CATEGORIES:World Cup 2026,Group I
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🇳🇴 Norway vs 🇫🇷 France kicks off in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-62@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260626T190000Z
+DTEND:20260626T204500Z
+SUMMARY:🇸🇳 Senegal vs 🇮🇶 Iraq
+LOCATION:BMO Field\, Toronto · Ontario · Canada
+DESCRIPTION:⚽ M62-I\nFIFA World Cup 2026 — Match 62 of 104\nStage: Group I\
+ nKickoff: Fri 26 Jun 2026 · 19:00 UTC\nResult: TBD\n\nVenue:\n  Stadium: B
+ MO Field\n  Capacity: 45\,736\n  City: Toronto\n  State: Ontario\n  Countr
+ y: Canada\n  Stadium info: https://en.wikipedia.org/wiki/BMO_Field\n\nMatc
+ h page:\n  Forza (lineups\, live score\, stats): https://forzafootball.com
+ /match/1219437902\n\nWatch:\n  Peacock (Spanish\, stream all 104 matches):
+  https://www.peacocktv.com/watch/sports-La-Copa-Mundial-de-la-FIFA-2026\n 
+  Telemundo (Spanish\, schedule + TV): https://www.telemundo.com/deportes/c
+ opa-mundial-de-la-fifa-2026\n  FOX One (English\, stream all 104 matches):
+  https://www.fox.com/soccer/fifa-world-cup\n\nSchedule source: https://wor
+ ldcuply.com/matches.ics
+URL:https://forzafootball.com/match/1219437902
+CATEGORIES:World Cup 2026,Group I
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🇸🇳 Senegal vs 🇮🇶 Iraq kicks off in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-63@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260627T030000Z
+DTEND:20260627T044500Z
+SUMMARY:🇪🇬 Egypt vs 🇮🇷 Iran
+LOCATION:Lumen Field\, Seattle · Washington · United States
+DESCRIPTION:⚽ M63-G\nFIFA World Cup 2026 — Match 63 of 104\nStage: Group G\
+ nKickoff: Sat 27 Jun 2026 · 03:00 UTC\nResult: TBD\n\nVenue:\n  Stadium: L
+ umen Field\n  Capacity: 68\,760\n  City: Seattle\n  State: Washington\n  C
+ ountry: United States\n  Stadium info: https://en.wikipedia.org/wiki/Lumen
+ _Field\n\nMatch page:\n  Forza (lineups\, live score\, stats): https://for
+ zafootball.com/match/1219435602\n\nWatch:\n  Peacock (Spanish\, stream all
+  104 matches): https://www.peacocktv.com/watch/sports-La-Copa-Mundial-de-l
+ a-FIFA-2026\n  Telemundo (Spanish\, schedule + TV): https://www.telemundo.
+ com/deportes/copa-mundial-de-la-fifa-2026\n  FOX One (English\, stream all
+  104 matches): https://www.fox.com/soccer/fifa-world-cup\n\nSchedule sourc
+ e: https://worldcuply.com/matches.ics
+URL:https://forzafootball.com/match/1219435602
+CATEGORIES:World Cup 2026,Group G
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🇪🇬 Egypt vs 🇮🇷 Iran kicks off in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-64@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260627T030000Z
+DTEND:20260627T044500Z
+SUMMARY:🇳🇿 New Zealand vs 🇧🇪 Belgium
+LOCATION:BC Place\, Vancouver · British Columbia · Canada
+DESCRIPTION:⚽ M64-G\nFIFA World Cup 2026 — Match 64 of 104\nStage: Group G\
+ nKickoff: Sat 27 Jun 2026 · 03:00 UTC\nResult: TBD\n\nVenue:\n  Stadium: B
+ C Place\n  Capacity: 54\,000\n  City: Vancouver\n  State: British Columbia
+ \n  Country: Canada\n  Stadium info: https://en.wikipedia.org/wiki/BC_Plac
+ e\n\nMatch page:\n  Forza (lineups\, live score\, stats): https://forzafoo
+ tball.com/match/1219435601\n\nWatch:\n  Peacock (Spanish\, stream all 104 
+ matches): https://www.peacocktv.com/watch/sports-La-Copa-Mundial-de-la-FIF
+ A-2026\n  Telemundo (Spanish\, schedule + TV): https://www.telemundo.com/d
+ eportes/copa-mundial-de-la-fifa-2026\n  FOX One (English\, stream all 104 
+ matches): https://www.fox.com/soccer/fifa-world-cup\n\nSchedule source: ht
+ tps://worldcuply.com/matches.ics
+URL:https://forzafootball.com/match/1219435601
+CATEGORIES:World Cup 2026,Group G
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🇳🇿 New Zealand vs 🇧🇪 Belgium kicks off in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-65@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260627T000000Z
+DTEND:20260627T014500Z
+SUMMARY:🇨🇻 Cape Verde vs 🇸🇦 Saudi Arabia
+LOCATION:NRG Stadium\, Houston · Texas · United States
+DESCRIPTION:⚽ M65-H\nFIFA World Cup 2026 — Match 65 of 104\nStage: Group H\
+ nKickoff: Sat 27 Jun 2026 · 00:00 UTC\nResult: TBD\n\nVenue:\n  Stadium: N
+ RG Stadium\n  Capacity: 72\,220\n  City: Houston\n  State: Texas\n  Countr
+ y: United States\n  Stadium info: https://en.wikipedia.org/wiki/NRG_Stadiu
+ m\n\nMatch page:\n  Forza (lineups\, live score\, stats): https://forzafoo
+ tball.com/match/1219435609\n\nWatch:\n  Peacock (Spanish\, stream all 104 
+ matches): https://www.peacocktv.com/watch/sports-La-Copa-Mundial-de-la-FIF
+ A-2026\n  Telemundo (Spanish\, schedule + TV): https://www.telemundo.com/d
+ eportes/copa-mundial-de-la-fifa-2026\n  FOX One (English\, stream all 104 
+ matches): https://www.fox.com/soccer/fifa-world-cup\n\nSchedule source: ht
+ tps://worldcuply.com/matches.ics
+URL:https://forzafootball.com/match/1219435609
+CATEGORIES:World Cup 2026,Group H
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🇨🇻 Cape Verde vs 🇸🇦 Saudi Arabia kicks off in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-66@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260627T000000Z
+DTEND:20260627T014500Z
+SUMMARY:🇺🇾 Uruguay vs 🇪🇸 Spain
+LOCATION:Estadio Akron\, Guadalajara · Jalisco · Mexico
+DESCRIPTION:⚽ M66-H\nFIFA World Cup 2026 — Match 66 of 104\nStage: Group H\
+ nKickoff: Sat 27 Jun 2026 · 00:00 UTC\nResult: TBD\n\nVenue:\n  Stadium: E
+ stadio Akron\n  Capacity: 49\,850\n  City: Guadalajara\n  State: Jalisco\n
+   Country: Mexico\n  Stadium info: https://en.wikipedia.org/wiki/Estadio_A
+ kron\n\nMatch page:\n  Forza (lineups\, live score\, stats): https://forza
+ football.com/match/1219435606\n\nWatch:\n  Peacock (Spanish\, stream all 1
+ 04 matches): https://www.peacocktv.com/watch/sports-La-Copa-Mundial-de-la-
+ FIFA-2026\n  Telemundo (Spanish\, schedule + TV): https://www.telemundo.co
+ m/deportes/copa-mundial-de-la-fifa-2026\n  FOX One (English\, stream all 1
+ 04 matches): https://www.fox.com/soccer/fifa-world-cup\n\nSchedule source:
+  https://worldcuply.com/matches.ics
+URL:https://forzafootball.com/match/1219435606
+CATEGORIES:World Cup 2026,Group H
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🇺🇾 Uruguay vs 🇪🇸 Spain kicks off in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-67@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260627T210000Z
+DTEND:20260627T224500Z
+SUMMARY:🇵🇦 Panama vs 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England
+LOCATION:MetLife Stadium\, East Rutherford (NYC area) · New Jersey · United
+  States
+DESCRIPTION:⚽ M67-L\nFIFA World Cup 2026 — Match 67 of 104\nStage: Group L\
+ nKickoff: Sat 27 Jun 2026 · 21:00 UTC\nResult: TBD\n\nVenue:\n  Stadium: M
+ etLife Stadium\n  Capacity: 82\,500\n  City: East Rutherford (NYC area)\n 
+  State: New Jersey\n  Country: United States\n  Stadium info: https://en.w
+ ikipedia.org/wiki/MetLife_Stadium\n\nMatch page:\n  Forza (lineups\, live 
+ score\, stats): https://forzafootball.com/match/1219435625\n\nWatch:\n  Pe
+ acock (Spanish\, stream all 104 matches): https://www.peacocktv.com/watch/
+ sports-La-Copa-Mundial-de-la-FIFA-2026\n  Telemundo (Spanish\, schedule + 
+ TV): https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026\n  FO
+ X One (English\, stream all 104 matches): https://www.fox.com/soccer/fifa-
+ world-cup\n\nSchedule source: https://worldcuply.com/matches.ics
+URL:https://forzafootball.com/match/1219435625
+CATEGORIES:World Cup 2026,Group L
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🇵🇦 Panama vs 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England kicks off in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-68@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260627T210000Z
+DTEND:20260627T224500Z
+SUMMARY:🇭🇷 Croatia vs 🇬🇭 Ghana
+LOCATION:Lincoln Financial Field\, Philadelphia · Pennsylvania · United Sta
+ tes
+DESCRIPTION:⚽ M68-L\nFIFA World Cup 2026 — Match 68 of 104\nStage: Group L\
+ nKickoff: Sat 27 Jun 2026 · 21:00 UTC\nResult: TBD\n\nVenue:\n  Stadium: L
+ incoln Financial Field\n  Capacity: 69\,796\n  City: Philadelphia\n  State
+ : Pennsylvania\n  Country: United States\n  Stadium info: https://en.wikip
+ edia.org/wiki/Lincoln_Financial_Field\n\nMatch page:\n  Forza (lineups\, l
+ ive score\, stats): https://forzafootball.com/match/1219435626\n\nWatch:\n
+   Peacock (Spanish\, stream all 104 matches): https://www.peacocktv.com/wa
+ tch/sports-La-Copa-Mundial-de-la-FIFA-2026\n  Telemundo (Spanish\, schedul
+ e + TV): https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026\n
+   FOX One (English\, stream all 104 matches): https://www.fox.com/soccer/f
+ ifa-world-cup\n\nSchedule source: https://worldcuply.com/matches.ics
+URL:https://forzafootball.com/match/1219435626
+CATEGORIES:World Cup 2026,Group L
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🇭🇷 Croatia vs 🇬🇭 Ghana kicks off in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-69@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260628T020000Z
+DTEND:20260628T034500Z
+SUMMARY:🇩🇿 Algeria vs 🇦🇹 Austria
+LOCATION:Arrowhead Stadium\, Kansas City · Missouri · United States
+DESCRIPTION:⚽ M69-J\nFIFA World Cup 2026 — Match 69 of 104\nStage: Group J\
+ nKickoff: Sun 28 Jun 2026 · 02:00 UTC\nResult: TBD\n\nVenue:\n  Stadium: A
+ rrowhead Stadium\n  Capacity: 76\,416\n  City: Kansas City\n  State: Misso
+ uri\n  Country: United States\n  Stadium info: https://en.wikipedia.org/wi
+ ki/Arrowhead_Stadium\n\nMatch page:\n  Forza (lineups\, live score\, stats
+ ): https://forzafootball.com/match/1219435617\n\nWatch:\n  Peacock (Spanis
+ h\, stream all 104 matches): https://www.peacocktv.com/watch/sports-La-Cop
+ a-Mundial-de-la-FIFA-2026\n  Telemundo (Spanish\, schedule + TV): https://
+ www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026\n  FOX One (Englis
+ h\, stream all 104 matches): https://www.fox.com/soccer/fifa-world-cup\n\n
+ Schedule source: https://worldcuply.com/matches.ics
+URL:https://forzafootball.com/match/1219435617
+CATEGORIES:World Cup 2026,Group J
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🇩🇿 Algeria vs 🇦🇹 Austria kicks off in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-70@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260628T020000Z
+DTEND:20260628T034500Z
+SUMMARY:🇯🇴 Jordan vs 🇦🇷 Argentina
+LOCATION:AT&T Stadium\, Arlington (Dallas area) · Texas · United States
+DESCRIPTION:⚽ M70-J\nFIFA World Cup 2026 — Match 70 of 104\nStage: Group J\
+ nKickoff: Sun 28 Jun 2026 · 02:00 UTC\nResult: TBD\n\nVenue:\n  Stadium: A
+ T&T Stadium\n  Capacity: 80\,000\n  City: Arlington (Dallas area)\n  State
+ : Texas\n  Country: United States\n  Stadium info: https://en.wikipedia.or
+ g/wiki/AT%26T_Stadium\n\nMatch page:\n  Forza (lineups\, live score\, stat
+ s): https://forzafootball.com/match/1219435616\n\nWatch:\n  Peacock (Spani
+ sh\, stream all 104 matches): https://www.peacocktv.com/watch/sports-La-Co
+ pa-Mundial-de-la-FIFA-2026\n  Telemundo (Spanish\, schedule + TV): https:/
+ /www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026\n  FOX One (Engli
+ sh\, stream all 104 matches): https://www.fox.com/soccer/fifa-world-cup\n\
+ nSchedule source: https://worldcuply.com/matches.ics
+URL:https://forzafootball.com/match/1219435616
+CATEGORIES:World Cup 2026,Group J
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🇯🇴 Jordan vs 🇦🇷 Argentina kicks off in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-71@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260627T233000Z
+DTEND:20260628T011500Z
+SUMMARY:🇨🇴 Colombia vs 🇵🇹 Portugal
+LOCATION:Hard Rock Stadium\, Miami Gardens · Florida · United States
+DESCRIPTION:⚽ M71-K\nFIFA World Cup 2026 — Match 71 of 104\nStage: Group K\
+ nKickoff: Sat 27 Jun 2026 · 23:30 UTC\nResult: TBD\n\nVenue:\n  Stadium: H
+ ard Rock Stadium\n  Capacity: 65\,326\n  City: Miami Gardens\n  State: Flo
+ rida\n  Country: United States\n  Stadium info: https://en.wikipedia.org/w
+ iki/Hard_Rock_Stadium\n\nMatch page:\n  Forza (lineups\, live score\, stat
+ s): https://forzafootball.com/match/1219435620\n\nWatch:\n  Peacock (Spani
+ sh\, stream all 104 matches): https://www.peacocktv.com/watch/sports-La-Co
+ pa-Mundial-de-la-FIFA-2026\n  Telemundo (Spanish\, schedule + TV): https:/
+ /www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026\n  FOX One (Engli
+ sh\, stream all 104 matches): https://www.fox.com/soccer/fifa-world-cup\n\
+ nSchedule source: https://worldcuply.com/matches.ics
+URL:https://forzafootball.com/match/1219435620
+CATEGORIES:World Cup 2026,Group K
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🇨🇴 Colombia vs 🇵🇹 Portugal kicks off in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-72@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260627T233000Z
+DTEND:20260628T011500Z
+SUMMARY:🇨🇩 DR Congo vs 🇺🇿 Uzbekistan
+LOCATION:Mercedes-Benz Stadium\, Atlanta · Georgia · United States
+DESCRIPTION:⚽ M72-K\nFIFA World Cup 2026 — Match 72 of 104\nStage: Group K\
+ nKickoff: Sat 27 Jun 2026 · 23:30 UTC\nResult: TBD\n\nVenue:\n  Stadium: M
+ ercedes-Benz Stadium\n  Capacity: 71\,000\n  City: Atlanta\n  State: Georg
+ ia\n  Country: United States\n  Stadium info: https://en.wikipedia.org/wik
+ i/Mercedes-Benz_Stadium\n\nMatch page:\n  Forza (lineups\, live score\, st
+ ats): https://forzafootball.com/match/1219437905\n\nWatch:\n  Peacock (Spa
+ nish\, stream all 104 matches): https://www.peacocktv.com/watch/sports-La-
+ Copa-Mundial-de-la-FIFA-2026\n  Telemundo (Spanish\, schedule + TV): https
+ ://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026\n  FOX One (Eng
+ lish\, stream all 104 matches): https://www.fox.com/soccer/fifa-world-cup\
+ n\nSchedule source: https://worldcuply.com/matches.ics
+URL:https://forzafootball.com/match/1219437905
+CATEGORIES:World Cup 2026,Group K
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🇨🇩 DR Congo vs 🇺🇿 Uzbekistan kicks off in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-73@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260628T190000Z
+DTEND:20260628T204500Z
+SUMMARY:Group A runners-up vs Group B runners-up
+LOCATION:SoFi Stadium\, Los Angeles (Inglewood) · California · United State
+ s
+DESCRIPTION:⚽ M73\nFIFA World Cup 2026 — Match 73 of 104\nStage: Round of 3
+ 2\nKickoff: Sun 28 Jun 2026 · 19:00 UTC\nResult: TBD\n\nBracket: Group A r
+ unners-up vs Group B runners-up\n\nVenue:\n  Stadium: SoFi Stadium\n  Capa
+ city: 70\,240\n  City: Los Angeles (Inglewood)\n  State: California\n  Cou
+ ntry: United States\n  Stadium info: https://en.wikipedia.org/wiki/SoFi_St
+ adium\n\nMatch page:\n  Forza (lineups\, live score\, stats): https://forz
+ afootball.com/tournament/fifa-world-cup-429\n\nWatch:\n  Peacock (Spanish\
+ , stream all 104 matches): https://www.peacocktv.com/watch/sports-La-Copa-
+ Mundial-de-la-FIFA-2026\n  Telemundo (Spanish\, schedule + TV): https://ww
+ w.telemundo.com/deportes/copa-mundial-de-la-fifa-2026\n  FOX One (English\
+ , stream all 104 matches): https://www.fox.com/soccer/fifa-world-cup\n\nSc
+ hedule source: https://worldcuply.com/matches.ics
+URL:https://forzafootball.com/tournament/fifa-world-cup-429
+CATEGORIES:World Cup 2026,Round of 32
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Group A runners-up vs Group B runners-up kicks off in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-74@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260629T203000Z
+DTEND:20260629T221500Z
+SUMMARY:Group E winners vs Group A/B/C/D/F third place
+LOCATION:Gillette Stadium\, Foxborough (Boston area) · Massachusetts · Unit
+ ed States
+DESCRIPTION:⚽ M74\nFIFA World Cup 2026 — Match 74 of 104\nStage: Round of 3
+ 2\nKickoff: Mon 29 Jun 2026 · 20:30 UTC\nResult: TBD\n\nBracket: Group E w
+ inners vs Group A/B/C/D/F third place\n\nVenue:\n  Stadium: Gillette Stadi
+ um\n  Capacity: 65\,878\n  City: Foxborough (Boston area)\n  State: Massac
+ husetts\n  Country: United States\n  Stadium info: https://en.wikipedia.or
+ g/wiki/Gillette_Stadium\n\nMatch page:\n  Forza (lineups\, live score\, st
+ ats): https://forzafootball.com/match/1217858416\n\nWatch:\n  Peacock (Spa
+ nish\, stream all 104 matches): https://www.peacocktv.com/watch/sports-La-
+ Copa-Mundial-de-la-FIFA-2026\n  Telemundo (Spanish\, schedule + TV): https
+ ://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026\n  FOX One (Eng
+ lish\, stream all 104 matches): https://www.fox.com/soccer/fifa-world-cup\
+ n\nSchedule source: https://worldcuply.com/matches.ics
+URL:https://forzafootball.com/match/1217858416
+CATEGORIES:World Cup 2026,Round of 32
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Group E winners vs Group A/B/C/D/F third place kicks off in 1 h
+ our
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-75@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260630T010000Z
+DTEND:20260630T024500Z
+SUMMARY:Group F winners vs Group C runners-up
+LOCATION:Estadio BBVA\, Monterrey · Nuevo León · Mexico
+DESCRIPTION:⚽ M75\nFIFA World Cup 2026 — Match 75 of 104\nStage: Round of 3
+ 2\nKickoff: Tue 30 Jun 2026 · 01:00 UTC\nResult: TBD\n\nBracket: Group F w
+ inners vs Group C runners-up\n\nVenue:\n  Stadium: Estadio BBVA\n  Capacit
+ y: 53\,500\n  City: Monterrey\n  State: Nuevo León\n  Country: Mexico\n  S
+ tadium info: https://en.wikipedia.org/wiki/Estadio_BBVA\n\nMatch page:\n  
+ Forza (lineups\, live score\, stats): https://forzafootball.com/tournament
+ /fifa-world-cup-429\n\nWatch:\n  Peacock (Spanish\, stream all 104 matches
+ ): https://www.peacocktv.com/watch/sports-La-Copa-Mundial-de-la-FIFA-2026\
+ n  Telemundo (Spanish\, schedule + TV): https://www.telemundo.com/deportes
+ /copa-mundial-de-la-fifa-2026\n  FOX One (English\, stream all 104 matches
+ ): https://www.fox.com/soccer/fifa-world-cup\n\nSchedule source: https://w
+ orldcuply.com/matches.ics
+URL:https://forzafootball.com/tournament/fifa-world-cup-429
+CATEGORIES:World Cup 2026,Round of 32
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Group F winners vs Group C runners-up kicks off in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-76@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260629T170000Z
+DTEND:20260629T184500Z
+SUMMARY:Group C winners vs Group F runners-up
+LOCATION:NRG Stadium\, Houston · Texas · United States
+DESCRIPTION:⚽ M76\nFIFA World Cup 2026 — Match 76 of 104\nStage: Round of 3
+ 2\nKickoff: Mon 29 Jun 2026 · 17:00 UTC\nResult: TBD\n\nBracket: Group C w
+ inners vs Group F runners-up\n\nVenue:\n  Stadium: NRG Stadium\n  Capacity
+ : 72\,220\n  City: Houston\n  State: Texas\n  Country: United States\n  St
+ adium info: https://en.wikipedia.org/wiki/NRG_Stadium\n\nMatch page:\n  Fo
+ rza (lineups\, live score\, stats): https://forzafootball.com/tournament/f
+ ifa-world-cup-429\n\nWatch:\n  Peacock (Spanish\, stream all 104 matches):
+  https://www.peacocktv.com/watch/sports-La-Copa-Mundial-de-la-FIFA-2026\n 
+  Telemundo (Spanish\, schedule + TV): https://www.telemundo.com/deportes/c
+ opa-mundial-de-la-fifa-2026\n  FOX One (English\, stream all 104 matches):
+  https://www.fox.com/soccer/fifa-world-cup\n\nSchedule source: https://wor
+ ldcuply.com/matches.ics
+URL:https://forzafootball.com/tournament/fifa-world-cup-429
+CATEGORIES:World Cup 2026,Round of 32
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Group C winners vs Group F runners-up kicks off in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-77@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260630T210000Z
+DTEND:20260630T224500Z
+SUMMARY:Group I winners vs Group C/D/F/G/H third place
+LOCATION:MetLife Stadium\, East Rutherford (NYC area) · New Jersey · United
+  States
+DESCRIPTION:⚽ M77\nFIFA World Cup 2026 — Match 77 of 104\nStage: Round of 3
+ 2\nKickoff: Tue 30 Jun 2026 · 21:00 UTC\nResult: TBD\n\nBracket: Group I w
+ inners vs Group C/D/F/G/H third place\n\nVenue:\n  Stadium: MetLife Stadiu
+ m\n  Capacity: 82\,500\n  City: East Rutherford (NYC area)\n  State: New J
+ ersey\n  Country: United States\n  Stadium info: https://en.wikipedia.org/
+ wiki/MetLife_Stadium\n\nMatch page:\n  Forza (lineups\, live score\, stats
+ ): https://forzafootball.com/match/1217858417\n\nWatch:\n  Peacock (Spanis
+ h\, stream all 104 matches): https://www.peacocktv.com/watch/sports-La-Cop
+ a-Mundial-de-la-FIFA-2026\n  Telemundo (Spanish\, schedule + TV): https://
+ www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026\n  FOX One (Englis
+ h\, stream all 104 matches): https://www.fox.com/soccer/fifa-world-cup\n\n
+ Schedule source: https://worldcuply.com/matches.ics
+URL:https://forzafootball.com/match/1217858417
+CATEGORIES:World Cup 2026,Round of 32
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Group I winners vs Group C/D/F/G/H third place kicks off in 1 h
+ our
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-78@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260630T170000Z
+DTEND:20260630T184500Z
+SUMMARY:Group E runners-up vs Group I runners-up
+LOCATION:AT&T Stadium\, Arlington (Dallas area) · Texas · United States
+DESCRIPTION:⚽ M78\nFIFA World Cup 2026 — Match 78 of 104\nStage: Round of 3
+ 2\nKickoff: Tue 30 Jun 2026 · 17:00 UTC\nResult: TBD\n\nBracket: Group E r
+ unners-up vs Group I runners-up\n\nVenue:\n  Stadium: AT&T Stadium\n  Capa
+ city: 80\,000\n  City: Arlington (Dallas area)\n  State: Texas\n  Country:
+  United States\n  Stadium info: https://en.wikipedia.org/wiki/AT%26T_Stadi
+ um\n\nMatch page:\n  Forza (lineups\, live score\, stats): https://forzafo
+ otball.com/match/1217858418\n\nWatch:\n  Peacock (Spanish\, stream all 104
+  matches): https://www.peacocktv.com/watch/sports-La-Copa-Mundial-de-la-FI
+ FA-2026\n  Telemundo (Spanish\, schedule + TV): https://www.telemundo.com/
+ deportes/copa-mundial-de-la-fifa-2026\n  FOX One (English\, stream all 104
+  matches): https://www.fox.com/soccer/fifa-world-cup\n\nSchedule source: h
+ ttps://worldcuply.com/matches.ics
+URL:https://forzafootball.com/match/1217858418
+CATEGORIES:World Cup 2026,Round of 32
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Group E runners-up vs Group I runners-up kicks off in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-79@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260701T010000Z
+DTEND:20260701T024500Z
+SUMMARY:Group A winners vs Group C/E/F/H/I third place
+LOCATION:Estadio Azteca\, Mexico City · CDMX · Mexico
+DESCRIPTION:⚽ M79\nFIFA World Cup 2026 — Match 79 of 104\nStage: Round of 3
+ 2\nKickoff: Wed 01 Jul 2026 · 01:00 UTC\nResult: TBD\n\nBracket: Group A w
+ inners vs Group C/E/F/H/I third place\n\nVenue:\n  Stadium: Estadio Azteca
+ \n  Capacity: 87\,523\n  City: Mexico City\n  State: CDMX\n  Country: Mexi
+ co\n  Stadium info: https://en.wikipedia.org/wiki/Estadio_Azteca\n\nMatch 
+ page:\n  Forza (lineups\, live score\, stats): https://forzafootball.com/m
+ atch/1217858419\n\nWatch:\n  Peacock (Spanish\, stream all 104 matches): h
+ ttps://www.peacocktv.com/watch/sports-La-Copa-Mundial-de-la-FIFA-2026\n  T
+ elemundo (Spanish\, schedule + TV): https://www.telemundo.com/deportes/cop
+ a-mundial-de-la-fifa-2026\n  FOX One (English\, stream all 104 matches): h
+ ttps://www.fox.com/soccer/fifa-world-cup\n\nSchedule source: https://world
+ cuply.com/matches.ics
+URL:https://forzafootball.com/match/1217858419
+CATEGORIES:World Cup 2026,Round of 32
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Group A winners vs Group C/E/F/H/I third place kicks off in 1 h
+ our
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-80@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260701T160000Z
+DTEND:20260701T174500Z
+SUMMARY:Group L winners vs Group E/H/I/J/K third place
+LOCATION:Mercedes-Benz Stadium\, Atlanta · Georgia · United States
+DESCRIPTION:⚽ M80\nFIFA World Cup 2026 — Match 80 of 104\nStage: Round of 3
+ 2\nKickoff: Wed 01 Jul 2026 · 16:00 UTC\nResult: TBD\n\nBracket: Group L w
+ inners vs Group E/H/I/J/K third place\n\nVenue:\n  Stadium: Mercedes-Benz 
+ Stadium\n  Capacity: 71\,000\n  City: Atlanta\n  State: Georgia\n  Country
+ : United States\n  Stadium info: https://en.wikipedia.org/wiki/Mercedes-Be
+ nz_Stadium\n\nMatch page:\n  Forza (lineups\, live score\, stats): https:/
+ /forzafootball.com/match/1217858422\n\nWatch:\n  Peacock (Spanish\, stream
+  all 104 matches): https://www.peacocktv.com/watch/sports-La-Copa-Mundial-
+ de-la-FIFA-2026\n  Telemundo (Spanish\, schedule + TV): https://www.telemu
+ ndo.com/deportes/copa-mundial-de-la-fifa-2026\n  FOX One (English\, stream
+  all 104 matches): https://www.fox.com/soccer/fifa-world-cup\n\nSchedule s
+ ource: https://worldcuply.com/matches.ics
+URL:https://forzafootball.com/match/1217858422
+CATEGORIES:World Cup 2026,Round of 32
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Group L winners vs Group E/H/I/J/K third place kicks off in 1 h
+ our
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-81@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260702T000000Z
+DTEND:20260702T014500Z
+SUMMARY:Group D winners vs Group B/E/F/I/J third place
+LOCATION:Levi's Stadium\, Santa Clara (Bay Area) · California · United Stat
+ es
+DESCRIPTION:⚽ M81\nFIFA World Cup 2026 — Match 81 of 104\nStage: Round of 3
+ 2\nKickoff: Thu 02 Jul 2026 · 00:00 UTC\nResult: TBD\n\nBracket: Group D w
+ inners vs Group B/E/F/I/J third place\n\nVenue:\n  Stadium: Levi's Stadium
+ \n  Capacity: 68\,500\n  City: Santa Clara (Bay Area)\n  State: California
+ \n  Country: United States\n  Stadium info: https://en.wikipedia.org/wiki/
+ Levi%27s_Stadium\n\nMatch page:\n  Forza (lineups\, live score\, stats): h
+ ttps://forzafootball.com/match/1217858420\n\nWatch:\n  Peacock (Spanish\, 
+ stream all 104 matches): https://www.peacocktv.com/watch/sports-La-Copa-Mu
+ ndial-de-la-FIFA-2026\n  Telemundo (Spanish\, schedule + TV): https://www.
+ telemundo.com/deportes/copa-mundial-de-la-fifa-2026\n  FOX One (English\, 
+ stream all 104 matches): https://www.fox.com/soccer/fifa-world-cup\n\nSche
+ dule source: https://worldcuply.com/matches.ics
+URL:https://forzafootball.com/match/1217858420
+CATEGORIES:World Cup 2026,Round of 32
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Group D winners vs Group B/E/F/I/J third place kicks off in 1 h
+ our
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-82@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260701T200000Z
+DTEND:20260701T214500Z
+SUMMARY:Group G winners vs Group A/E/H/I/J third place
+LOCATION:Lumen Field\, Seattle · Washington · United States
+DESCRIPTION:⚽ M82\nFIFA World Cup 2026 — Match 82 of 104\nStage: Round of 3
+ 2\nKickoff: Wed 01 Jul 2026 · 20:00 UTC\nResult: TBD\n\nBracket: Group G w
+ inners vs Group A/E/H/I/J third place\n\nVenue:\n  Stadium: Lumen Field\n 
+  Capacity: 68\,760\n  City: Seattle\n  State: Washington\n  Country: Unite
+ d States\n  Stadium info: https://en.wikipedia.org/wiki/Lumen_Field\n\nMat
+ ch page:\n  Forza (lineups\, live score\, stats): https://forzafootball.co
+ m/match/1217858421\n\nWatch:\n  Peacock (Spanish\, stream all 104 matches)
+ : https://www.peacocktv.com/watch/sports-La-Copa-Mundial-de-la-FIFA-2026\n
+   Telemundo (Spanish\, schedule + TV): https://www.telemundo.com/deportes/
+ copa-mundial-de-la-fifa-2026\n  FOX One (English\, stream all 104 matches)
+ : https://www.fox.com/soccer/fifa-world-cup\n\nSchedule source: https://wo
+ rldcuply.com/matches.ics
+URL:https://forzafootball.com/match/1217858421
+CATEGORIES:World Cup 2026,Round of 32
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Group G winners vs Group A/E/H/I/J third place kicks off in 1 h
+ our
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-83@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260702T230000Z
+DTEND:20260703T004500Z
+SUMMARY:Group K runners-up vs Group L runners-up
+LOCATION:BMO Field\, Toronto · Ontario · Canada
+DESCRIPTION:⚽ M83\nFIFA World Cup 2026 — Match 83 of 104\nStage: Round of 3
+ 2\nKickoff: Thu 02 Jul 2026 · 23:00 UTC\nResult: TBD\n\nBracket: Group K r
+ unners-up vs Group L runners-up\n\nVenue:\n  Stadium: BMO Field\n  Capacit
+ y: 45\,736\n  City: Toronto\n  State: Ontario\n  Country: Canada\n  Stadiu
+ m info: https://en.wikipedia.org/wiki/BMO_Field\n\nMatch page:\n  Forza (l
+ ineups\, live score\, stats): https://forzafootball.com/match/1217858424\n
+ \nWatch:\n  Peacock (Spanish\, stream all 104 matches): https://www.peacoc
+ ktv.com/watch/sports-La-Copa-Mundial-de-la-FIFA-2026\n  Telemundo (Spanish
+ \, schedule + TV): https://www.telemundo.com/deportes/copa-mundial-de-la-f
+ ifa-2026\n  FOX One (English\, stream all 104 matches): https://www.fox.co
+ m/soccer/fifa-world-cup\n\nSchedule source: https://worldcuply.com/matches
+ .ics
+URL:https://forzafootball.com/match/1217858424
+CATEGORIES:World Cup 2026,Round of 32
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Group K runners-up vs Group L runners-up kicks off in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-84@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260702T190000Z
+DTEND:20260702T204500Z
+SUMMARY:Group H winners vs Group J runners-up
+LOCATION:SoFi Stadium\, Los Angeles (Inglewood) · California · United State
+ s
+DESCRIPTION:⚽ M84\nFIFA World Cup 2026 — Match 84 of 104\nStage: Round of 3
+ 2\nKickoff: Thu 02 Jul 2026 · 19:00 UTC\nResult: TBD\n\nBracket: Group H w
+ inners vs Group J runners-up\n\nVenue:\n  Stadium: SoFi Stadium\n  Capacit
+ y: 70\,240\n  City: Los Angeles (Inglewood)\n  State: California\n  Countr
+ y: United States\n  Stadium info: https://en.wikipedia.org/wiki/SoFi_Stadi
+ um\n\nMatch page:\n  Forza (lineups\, live score\, stats): https://forzafo
+ otball.com/match/1217858425\n\nWatch:\n  Peacock (Spanish\, stream all 104
+  matches): https://www.peacocktv.com/watch/sports-La-Copa-Mundial-de-la-FI
+ FA-2026\n  Telemundo (Spanish\, schedule + TV): https://www.telemundo.com/
+ deportes/copa-mundial-de-la-fifa-2026\n  FOX One (English\, stream all 104
+  matches): https://www.fox.com/soccer/fifa-world-cup\n\nSchedule source: h
+ ttps://worldcuply.com/matches.ics
+URL:https://forzafootball.com/match/1217858425
+CATEGORIES:World Cup 2026,Round of 32
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Group H winners vs Group J runners-up kicks off in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-85@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260703T030000Z
+DTEND:20260703T044500Z
+SUMMARY:Group B winners vs Group E/F/G/I/J third place
+LOCATION:BC Place\, Vancouver · British Columbia · Canada
+DESCRIPTION:⚽ M85\nFIFA World Cup 2026 — Match 85 of 104\nStage: Round of 3
+ 2\nKickoff: Fri 03 Jul 2026 · 03:00 UTC\nResult: TBD\n\nBracket: Group B w
+ inners vs Group E/F/G/I/J third place\n\nVenue:\n  Stadium: BC Place\n  Ca
+ pacity: 54\,000\n  City: Vancouver\n  State: British Columbia\n  Country: 
+ Canada\n  Stadium info: https://en.wikipedia.org/wiki/BC_Place\n\nMatch pa
+ ge:\n  Forza (lineups\, live score\, stats): https://forzafootball.com/mat
+ ch/1217858423\n\nWatch:\n  Peacock (Spanish\, stream all 104 matches): htt
+ ps://www.peacocktv.com/watch/sports-La-Copa-Mundial-de-la-FIFA-2026\n  Tel
+ emundo (Spanish\, schedule + TV): https://www.telemundo.com/deportes/copa-
+ mundial-de-la-fifa-2026\n  FOX One (English\, stream all 104 matches): htt
+ ps://www.fox.com/soccer/fifa-world-cup\n\nSchedule source: https://worldcu
+ ply.com/matches.ics
+URL:https://forzafootball.com/match/1217858423
+CATEGORIES:World Cup 2026,Round of 32
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Group B winners vs Group E/F/G/I/J third place kicks off in 1 h
+ our
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-86@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260703T220000Z
+DTEND:20260703T234500Z
+SUMMARY:Group J winners vs Group H runners-up
+LOCATION:Hard Rock Stadium\, Miami Gardens · Florida · United States
+DESCRIPTION:⚽ M86\nFIFA World Cup 2026 — Match 86 of 104\nStage: Round of 3
+ 2\nKickoff: Fri 03 Jul 2026 · 22:00 UTC\nResult: TBD\n\nBracket: Group J w
+ inners vs Group H runners-up\n\nVenue:\n  Stadium: Hard Rock Stadium\n  Ca
+ pacity: 65\,326\n  City: Miami Gardens\n  State: Florida\n  Country: Unite
+ d States\n  Stadium info: https://en.wikipedia.org/wiki/Hard_Rock_Stadium\
+ n\nMatch page:\n  Forza (lineups\, live score\, stats): https://forzafootb
+ all.com/match/1217858427\n\nWatch:\n  Peacock (Spanish\, stream all 104 ma
+ tches): https://www.peacocktv.com/watch/sports-La-Copa-Mundial-de-la-FIFA-
+ 2026\n  Telemundo (Spanish\, schedule + TV): https://www.telemundo.com/dep
+ ortes/copa-mundial-de-la-fifa-2026\n  FOX One (English\, stream all 104 ma
+ tches): https://www.fox.com/soccer/fifa-world-cup\n\nSchedule source: http
+ s://worldcuply.com/matches.ics
+URL:https://forzafootball.com/match/1217858427
+CATEGORIES:World Cup 2026,Round of 32
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Group J winners vs Group H runners-up kicks off in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-87@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260704T013000Z
+DTEND:20260704T031500Z
+SUMMARY:Group K winners vs Group D/E/I/J/L third place
+LOCATION:Arrowhead Stadium\, Kansas City · Missouri · United States
+DESCRIPTION:⚽ M87\nFIFA World Cup 2026 — Match 87 of 104\nStage: Round of 3
+ 2\nKickoff: Sat 04 Jul 2026 · 01:30 UTC\nResult: TBD\n\nBracket: Group K w
+ inners vs Group D/E/I/J/L third place\n\nVenue:\n  Stadium: Arrowhead Stad
+ ium\n  Capacity: 76\,416\n  City: Kansas City\n  State: Missouri\n  Countr
+ y: United States\n  Stadium info: https://en.wikipedia.org/wiki/Arrowhead_
+ Stadium\n\nMatch page:\n  Forza (lineups\, live score\, stats): https://fo
+ rzafootball.com/match/1217858426\n\nWatch:\n  Peacock (Spanish\, stream al
+ l 104 matches): https://www.peacocktv.com/watch/sports-La-Copa-Mundial-de-
+ la-FIFA-2026\n  Telemundo (Spanish\, schedule + TV): https://www.telemundo
+ .com/deportes/copa-mundial-de-la-fifa-2026\n  FOX One (English\, stream al
+ l 104 matches): https://www.fox.com/soccer/fifa-world-cup\n\nSchedule sour
+ ce: https://worldcuply.com/matches.ics
+URL:https://forzafootball.com/match/1217858426
+CATEGORIES:World Cup 2026,Round of 32
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Group K winners vs Group D/E/I/J/L third place kicks off in 1 h
+ our
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-88@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260703T180000Z
+DTEND:20260703T194500Z
+SUMMARY:Group D runners-up vs Group G runners-up
+LOCATION:AT&T Stadium\, Arlington (Dallas area) · Texas · United States
+DESCRIPTION:⚽ M88\nFIFA World Cup 2026 — Match 88 of 104\nStage: Round of 3
+ 2\nKickoff: Fri 03 Jul 2026 · 18:00 UTC\nResult: TBD\n\nBracket: Group D r
+ unners-up vs Group G runners-up\n\nVenue:\n  Stadium: AT&T Stadium\n  Capa
+ city: 80\,000\n  City: Arlington (Dallas area)\n  State: Texas\n  Country:
+  United States\n  Stadium info: https://en.wikipedia.org/wiki/AT%26T_Stadi
+ um\n\nMatch page:\n  Forza (lineups\, live score\, stats): https://forzafo
+ otball.com/tournament/fifa-world-cup-429\n\nWatch:\n  Peacock (Spanish\, s
+ tream all 104 matches): https://www.peacocktv.com/watch/sports-La-Copa-Mun
+ dial-de-la-FIFA-2026\n  Telemundo (Spanish\, schedule + TV): https://www.t
+ elemundo.com/deportes/copa-mundial-de-la-fifa-2026\n  FOX One (English\, s
+ tream all 104 matches): https://www.fox.com/soccer/fifa-world-cup\n\nSched
+ ule source: https://worldcuply.com/matches.ics
+URL:https://forzafootball.com/tournament/fifa-world-cup-429
+CATEGORIES:World Cup 2026,Round of 32
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Group D runners-up vs Group G runners-up kicks off in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-89@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260704T210000Z
+DTEND:20260704T224500Z
+SUMMARY:Winner Match 74 vs Winner Match 77
+LOCATION:Lincoln Financial Field\, Philadelphia · Pennsylvania · United Sta
+ tes
+DESCRIPTION:⚽ M89\nFIFA World Cup 2026 — Match 89 of 104\nStage: Round of 1
+ 6\nKickoff: Sat 04 Jul 2026 · 21:00 UTC\nResult: TBD\n\nBracket: Winner of
+  M74 vs Winner of M77\n\nVenue:\n  Stadium: Lincoln Financial Field\n  Cap
+ acity: 69\,796\n  City: Philadelphia\n  State: Pennsylvania\n  Country: Un
+ ited States\n  Stadium info: https://en.wikipedia.org/wiki/Lincoln_Financi
+ al_Field\n\nMatch page:\n  Forza (lineups\, live score\, stats): https://f
+ orzafootball.com/match/1217858428\n\nWatch:\n  Peacock (Spanish\, stream a
+ ll 104 matches): https://www.peacocktv.com/watch/sports-La-Copa-Mundial-de
+ -la-FIFA-2026\n  Telemundo (Spanish\, schedule + TV): https://www.telemund
+ o.com/deportes/copa-mundial-de-la-fifa-2026\n  FOX One (English\, stream a
+ ll 104 matches): https://www.fox.com/soccer/fifa-world-cup\n\nSchedule sou
+ rce: https://worldcuply.com/matches.ics
+URL:https://forzafootball.com/match/1217858428
+CATEGORIES:World Cup 2026,Round of 16
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Winner Match 74 vs Winner Match 77 kicks off in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-90@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260704T170000Z
+DTEND:20260704T184500Z
+SUMMARY:Winner Match 73 vs Winner Match 75
+LOCATION:NRG Stadium\, Houston · Texas · United States
+DESCRIPTION:⚽ M90\nFIFA World Cup 2026 — Match 90 of 104\nStage: Round of 1
+ 6\nKickoff: Sat 04 Jul 2026 · 17:00 UTC\nResult: TBD\n\nBracket: Winner of
+  M73 vs Winner of M75\n\nVenue:\n  Stadium: NRG Stadium\n  Capacity: 72\,2
+ 20\n  City: Houston\n  State: Texas\n  Country: United States\n  Stadium i
+ nfo: https://en.wikipedia.org/wiki/NRG_Stadium\n\nMatch page:\n  Forza (li
+ neups\, live score\, stats): https://forzafootball.com/match/1217858429\n\
+ nWatch:\n  Peacock (Spanish\, stream all 104 matches): https://www.peacock
+ tv.com/watch/sports-La-Copa-Mundial-de-la-FIFA-2026\n  Telemundo (Spanish\
+ , schedule + TV): https://www.telemundo.com/deportes/copa-mundial-de-la-fi
+ fa-2026\n  FOX One (English\, stream all 104 matches): https://www.fox.com
+ /soccer/fifa-world-cup\n\nSchedule source: https://worldcuply.com/matches.
+ ics
+URL:https://forzafootball.com/match/1217858429
+CATEGORIES:World Cup 2026,Round of 16
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Winner Match 73 vs Winner Match 75 kicks off in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-91@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260705T200000Z
+DTEND:20260705T214500Z
+SUMMARY:Winner Match 76 vs Winner Match 78
+LOCATION:MetLife Stadium\, East Rutherford (NYC area) · New Jersey · United
+  States
+DESCRIPTION:⚽ M91\nFIFA World Cup 2026 — Match 91 of 104\nStage: Round of 1
+ 6\nKickoff: Sun 05 Jul 2026 · 20:00 UTC\nResult: TBD\n\nBracket: Winner of
+  M76 vs Winner of M78\n\nVenue:\n  Stadium: MetLife Stadium\n  Capacity: 8
+ 2\,500\n  City: East Rutherford (NYC area)\n  State: New Jersey\n  Country
+ : United States\n  Stadium info: https://en.wikipedia.org/wiki/MetLife_Sta
+ dium\n\nMatch page:\n  Forza (lineups\, live score\, stats): https://forza
+ football.com/match/1217858430\n\nWatch:\n  Peacock (Spanish\, stream all 1
+ 04 matches): https://www.peacocktv.com/watch/sports-La-Copa-Mundial-de-la-
+ FIFA-2026\n  Telemundo (Spanish\, schedule + TV): https://www.telemundo.co
+ m/deportes/copa-mundial-de-la-fifa-2026\n  FOX One (English\, stream all 1
+ 04 matches): https://www.fox.com/soccer/fifa-world-cup\n\nSchedule source:
+  https://worldcuply.com/matches.ics
+URL:https://forzafootball.com/match/1217858430
+CATEGORIES:World Cup 2026,Round of 16
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Winner Match 76 vs Winner Match 78 kicks off in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-92@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260706T000000Z
+DTEND:20260706T014500Z
+SUMMARY:Winner Match 79 vs Winner Match 80
+LOCATION:Estadio Azteca\, Mexico City · CDMX · Mexico
+DESCRIPTION:⚽ M92\nFIFA World Cup 2026 — Match 92 of 104\nStage: Round of 1
+ 6\nKickoff: Mon 06 Jul 2026 · 00:00 UTC\nResult: TBD\n\nBracket: Winner of
+  M79 vs Winner of M80\n\nVenue:\n  Stadium: Estadio Azteca\n  Capacity: 87
+ \,523\n  City: Mexico City\n  State: CDMX\n  Country: Mexico\n  Stadium in
+ fo: https://en.wikipedia.org/wiki/Estadio_Azteca\n\nMatch page:\n  Forza (
+ lineups\, live score\, stats): https://forzafootball.com/match/1217858431\
+ n\nWatch:\n  Peacock (Spanish\, stream all 104 matches): https://www.peaco
+ cktv.com/watch/sports-La-Copa-Mundial-de-la-FIFA-2026\n  Telemundo (Spanis
+ h\, schedule + TV): https://www.telemundo.com/deportes/copa-mundial-de-la-
+ fifa-2026\n  FOX One (English\, stream all 104 matches): https://www.fox.c
+ om/soccer/fifa-world-cup\n\nSchedule source: https://worldcuply.com/matche
+ s.ics
+URL:https://forzafootball.com/match/1217858431
+CATEGORIES:World Cup 2026,Round of 16
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Winner Match 79 vs Winner Match 80 kicks off in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-93@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260706T190000Z
+DTEND:20260706T204500Z
+SUMMARY:Winner Match 83 vs Winner Match 84
+LOCATION:AT&T Stadium\, Arlington (Dallas area) · Texas · United States
+DESCRIPTION:⚽ M93\nFIFA World Cup 2026 — Match 93 of 104\nStage: Round of 1
+ 6\nKickoff: Mon 06 Jul 2026 · 19:00 UTC\nResult: TBD\n\nBracket: Winner of
+  M83 vs Winner of M84\n\nVenue:\n  Stadium: AT&T Stadium\n  Capacity: 80\,
+ 000\n  City: Arlington (Dallas area)\n  State: Texas\n  Country: United St
+ ates\n  Stadium info: https://en.wikipedia.org/wiki/AT%26T_Stadium\n\nMatc
+ h page:\n  Forza (lineups\, live score\, stats): https://forzafootball.com
+ /match/1217858432\n\nWatch:\n  Peacock (Spanish\, stream all 104 matches):
+  https://www.peacocktv.com/watch/sports-La-Copa-Mundial-de-la-FIFA-2026\n 
+  Telemundo (Spanish\, schedule + TV): https://www.telemundo.com/deportes/c
+ opa-mundial-de-la-fifa-2026\n  FOX One (English\, stream all 104 matches):
+  https://www.fox.com/soccer/fifa-world-cup\n\nSchedule source: https://wor
+ ldcuply.com/matches.ics
+URL:https://forzafootball.com/match/1217858432
+CATEGORIES:World Cup 2026,Round of 16
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Winner Match 83 vs Winner Match 84 kicks off in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-94@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260707T000000Z
+DTEND:20260707T014500Z
+SUMMARY:Winner Match 81 vs Winner Match 82
+LOCATION:Lumen Field\, Seattle · Washington · United States
+DESCRIPTION:⚽ M94\nFIFA World Cup 2026 — Match 94 of 104\nStage: Round of 1
+ 6\nKickoff: Tue 07 Jul 2026 · 00:00 UTC\nResult: TBD\n\nBracket: Winner of
+  M81 vs Winner of M82\n\nVenue:\n  Stadium: Lumen Field\n  Capacity: 68\,7
+ 60\n  City: Seattle\n  State: Washington\n  Country: United States\n  Stad
+ ium info: https://en.wikipedia.org/wiki/Lumen_Field\n\nMatch page:\n  Forz
+ a (lineups\, live score\, stats): https://forzafootball.com/match/12178584
+ 33\n\nWatch:\n  Peacock (Spanish\, stream all 104 matches): https://www.pe
+ acocktv.com/watch/sports-La-Copa-Mundial-de-la-FIFA-2026\n  Telemundo (Spa
+ nish\, schedule + TV): https://www.telemundo.com/deportes/copa-mundial-de-
+ la-fifa-2026\n  FOX One (English\, stream all 104 matches): https://www.fo
+ x.com/soccer/fifa-world-cup\n\nSchedule source: https://worldcuply.com/mat
+ ches.ics
+URL:https://forzafootball.com/match/1217858433
+CATEGORIES:World Cup 2026,Round of 16
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Winner Match 81 vs Winner Match 82 kicks off in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-95@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260707T160000Z
+DTEND:20260707T174500Z
+SUMMARY:Winner Match 86 vs Winner Match 88
+LOCATION:Mercedes-Benz Stadium\, Atlanta · Georgia · United States
+DESCRIPTION:⚽ M95\nFIFA World Cup 2026 — Match 95 of 104\nStage: Round of 1
+ 6\nKickoff: Tue 07 Jul 2026 · 16:00 UTC\nResult: TBD\n\nBracket: Winner of
+  M86 vs Winner of M88\n\nVenue:\n  Stadium: Mercedes-Benz Stadium\n  Capac
+ ity: 71\,000\n  City: Atlanta\n  State: Georgia\n  Country: United States\
+ n  Stadium info: https://en.wikipedia.org/wiki/Mercedes-Benz_Stadium\n\nMa
+ tch page:\n  Forza (lineups\, live score\, stats): https://forzafootball.c
+ om/match/1217858434\n\nWatch:\n  Peacock (Spanish\, stream all 104 matches
+ ): https://www.peacocktv.com/watch/sports-La-Copa-Mundial-de-la-FIFA-2026\
+ n  Telemundo (Spanish\, schedule + TV): https://www.telemundo.com/deportes
+ /copa-mundial-de-la-fifa-2026\n  FOX One (English\, stream all 104 matches
+ ): https://www.fox.com/soccer/fifa-world-cup\n\nSchedule source: https://w
+ orldcuply.com/matches.ics
+URL:https://forzafootball.com/match/1217858434
+CATEGORIES:World Cup 2026,Round of 16
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Winner Match 86 vs Winner Match 88 kicks off in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-96@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260707T200000Z
+DTEND:20260707T214500Z
+SUMMARY:Winner Match 85 vs Winner Match 87
+LOCATION:BC Place\, Vancouver · British Columbia · Canada
+DESCRIPTION:⚽ M96\nFIFA World Cup 2026 — Match 96 of 104\nStage: Round of 1
+ 6\nKickoff: Tue 07 Jul 2026 · 20:00 UTC\nResult: TBD\n\nBracket: Winner of
+  M85 vs Winner of M87\n\nVenue:\n  Stadium: BC Place\n  Capacity: 54\,000\
+ n  City: Vancouver\n  State: British Columbia\n  Country: Canada\n  Stadiu
+ m info: https://en.wikipedia.org/wiki/BC_Place\n\nMatch page:\n  Forza (li
+ neups\, live score\, stats): https://forzafootball.com/match/1217858435\n\
+ nWatch:\n  Peacock (Spanish\, stream all 104 matches): https://www.peacock
+ tv.com/watch/sports-La-Copa-Mundial-de-la-FIFA-2026\n  Telemundo (Spanish\
+ , schedule + TV): https://www.telemundo.com/deportes/copa-mundial-de-la-fi
+ fa-2026\n  FOX One (English\, stream all 104 matches): https://www.fox.com
+ /soccer/fifa-world-cup\n\nSchedule source: https://worldcuply.com/matches.
+ ics
+URL:https://forzafootball.com/match/1217858435
+CATEGORIES:World Cup 2026,Round of 16
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Winner Match 85 vs Winner Match 87 kicks off in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-97@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260709T200000Z
+DTEND:20260709T214500Z
+SUMMARY:Winner Match 89 vs Winner Match 90
+LOCATION:Gillette Stadium\, Foxborough (Boston area) · Massachusetts · Unit
+ ed States
+DESCRIPTION:⚽ M97\nFIFA World Cup 2026 — Match 97 of 104\nStage: Quarter-fi
+ nal\nKickoff: Thu 09 Jul 2026 · 20:00 UTC\nResult: TBD\n\nBracket: Winner 
+ of M89 vs Winner of M90\n\nVenue:\n  Stadium: Gillette Stadium\n  Capacity
+ : 65\,878\n  City: Foxborough (Boston area)\n  State: Massachusetts\n  Cou
+ ntry: United States\n  Stadium info: https://en.wikipedia.org/wiki/Gillett
+ e_Stadium\n\nMatch page:\n  Forza (lineups\, live score\, stats): https://
+ forzafootball.com/match/1217858436\n\nWatch:\n  Peacock (Spanish\, stream 
+ all 104 matches): https://www.peacocktv.com/watch/sports-La-Copa-Mundial-d
+ e-la-FIFA-2026\n  Telemundo (Spanish\, schedule + TV): https://www.telemun
+ do.com/deportes/copa-mundial-de-la-fifa-2026\n  FOX One (English\, stream 
+ all 104 matches): https://www.fox.com/soccer/fifa-world-cup\n\nSchedule so
+ urce: https://worldcuply.com/matches.ics
+URL:https://forzafootball.com/match/1217858436
+CATEGORIES:World Cup 2026,Quarter-final
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Winner Match 89 vs Winner Match 90 kicks off in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-98@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260710T190000Z
+DTEND:20260710T204500Z
+SUMMARY:Winner Match 93 vs Winner Match 94
+LOCATION:SoFi Stadium\, Los Angeles (Inglewood) · California · United State
+ s
+DESCRIPTION:⚽ M98\nFIFA World Cup 2026 — Match 98 of 104\nStage: Quarter-fi
+ nal\nKickoff: Fri 10 Jul 2026 · 19:00 UTC\nResult: TBD\n\nBracket: Winner 
+ of M93 vs Winner of M94\n\nVenue:\n  Stadium: SoFi Stadium\n  Capacity: 70
+ \,240\n  City: Los Angeles (Inglewood)\n  State: California\n  Country: Un
+ ited States\n  Stadium info: https://en.wikipedia.org/wiki/SoFi_Stadium\n\
+ nMatch page:\n  Forza (lineups\, live score\, stats): https://forzafootbal
+ l.com/match/1217858437\n\nWatch:\n  Peacock (Spanish\, stream all 104 matc
+ hes): https://www.peacocktv.com/watch/sports-La-Copa-Mundial-de-la-FIFA-20
+ 26\n  Telemundo (Spanish\, schedule + TV): https://www.telemundo.com/depor
+ tes/copa-mundial-de-la-fifa-2026\n  FOX One (English\, stream all 104 matc
+ hes): https://www.fox.com/soccer/fifa-world-cup\n\nSchedule source: https:
+ //worldcuply.com/matches.ics
+URL:https://forzafootball.com/match/1217858437
+CATEGORIES:World Cup 2026,Quarter-final
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Winner Match 93 vs Winner Match 94 kicks off in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-99@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260711T210000Z
+DTEND:20260711T224500Z
+SUMMARY:Winner Match 91 vs Winner Match 92
+LOCATION:Hard Rock Stadium\, Miami Gardens · Florida · United States
+DESCRIPTION:⚽ M99\nFIFA World Cup 2026 — Match 99 of 104\nStage: Quarter-fi
+ nal\nKickoff: Sat 11 Jul 2026 · 21:00 UTC\nResult: TBD\n\nBracket: Winner 
+ of M91 vs Winner of M92\n\nVenue:\n  Stadium: Hard Rock Stadium\n  Capacit
+ y: 65\,326\n  City: Miami Gardens\n  State: Florida\n  Country: United Sta
+ tes\n  Stadium info: https://en.wikipedia.org/wiki/Hard_Rock_Stadium\n\nMa
+ tch page:\n  Forza (lineups\, live score\, stats): https://forzafootball.c
+ om/match/1217858438\n\nWatch:\n  Peacock (Spanish\, stream all 104 matches
+ ): https://www.peacocktv.com/watch/sports-La-Copa-Mundial-de-la-FIFA-2026\
+ n  Telemundo (Spanish\, schedule + TV): https://www.telemundo.com/deportes
+ /copa-mundial-de-la-fifa-2026\n  FOX One (English\, stream all 104 matches
+ ): https://www.fox.com/soccer/fifa-world-cup\n\nSchedule source: https://w
+ orldcuply.com/matches.ics
+URL:https://forzafootball.com/match/1217858438
+CATEGORIES:World Cup 2026,Quarter-final
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Winner Match 91 vs Winner Match 92 kicks off in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-100@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260712T010000Z
+DTEND:20260712T024500Z
+SUMMARY:Winner Match 95 vs Winner Match 96
+LOCATION:Arrowhead Stadium\, Kansas City · Missouri · United States
+DESCRIPTION:⚽ M100\nFIFA World Cup 2026 — Match 100 of 104\nStage: Quarter-
+ final\nKickoff: Sun 12 Jul 2026 · 01:00 UTC\nResult: TBD\n\nBracket: Winne
+ r of M95 vs Winner of M96\n\nVenue:\n  Stadium: Arrowhead Stadium\n  Capac
+ ity: 76\,416\n  City: Kansas City\n  State: Missouri\n  Country: United St
+ ates\n  Stadium info: https://en.wikipedia.org/wiki/Arrowhead_Stadium\n\nM
+ atch page:\n  Forza (lineups\, live score\, stats): https://forzafootball.
+ com/match/1217858439\n\nWatch:\n  Peacock (Spanish\, stream all 104 matche
+ s): https://www.peacocktv.com/watch/sports-La-Copa-Mundial-de-la-FIFA-2026
+ \n  Telemundo (Spanish\, schedule + TV): https://www.telemundo.com/deporte
+ s/copa-mundial-de-la-fifa-2026\n  FOX One (English\, stream all 104 matche
+ s): https://www.fox.com/soccer/fifa-world-cup\n\nSchedule source: https://
+ worldcuply.com/matches.ics
+URL:https://forzafootball.com/match/1217858439
+CATEGORIES:World Cup 2026,Quarter-final
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Winner Match 95 vs Winner Match 96 kicks off in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-101@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260714T190000Z
+DTEND:20260714T204500Z
+SUMMARY:Winner Match 97 vs Winner Match 98
+LOCATION:AT&T Stadium\, Arlington (Dallas area) · Texas · United States
+DESCRIPTION:⚽ M101\nFIFA World Cup 2026 — Match 101 of 104\nStage: Semi-fin
+ al\nKickoff: Tue 14 Jul 2026 · 19:00 UTC\nResult: TBD\n\nBracket: Winner o
+ f M97 vs Winner of M98\n\nVenue:\n  Stadium: AT&T Stadium\n  Capacity: 80\
+ ,000\n  City: Arlington (Dallas area)\n  State: Texas\n  Country: United S
+ tates\n  Stadium info: https://en.wikipedia.org/wiki/AT%26T_Stadium\n\nMat
+ ch page:\n  Forza (lineups\, live score\, stats): https://forzafootball.co
+ m/match/1217858440\n\nWatch:\n  Peacock (Spanish\, stream all 104 matches)
+ : https://www.peacocktv.com/watch/sports-La-Copa-Mundial-de-la-FIFA-2026\n
+   Telemundo (Spanish\, schedule + TV): https://www.telemundo.com/deportes/
+ copa-mundial-de-la-fifa-2026\n  FOX One (English\, stream all 104 matches)
+ : https://www.fox.com/soccer/fifa-world-cup\n\nSchedule source: https://wo
+ rldcuply.com/matches.ics
+URL:https://forzafootball.com/match/1217858440
+CATEGORIES:World Cup 2026,Semi-final
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Winner Match 97 vs Winner Match 98 kicks off in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-102@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260715T190000Z
+DTEND:20260715T204500Z
+SUMMARY:Winner Match 99 vs Winner Match 100
+LOCATION:Mercedes-Benz Stadium\, Atlanta · Georgia · United States
+DESCRIPTION:⚽ M102\nFIFA World Cup 2026 — Match 102 of 104\nStage: Semi-fin
+ al\nKickoff: Wed 15 Jul 2026 · 19:00 UTC\nResult: TBD\n\nBracket: Winner o
+ f M99 vs Winner of M100\n\nVenue:\n  Stadium: Mercedes-Benz Stadium\n  Cap
+ acity: 71\,000\n  City: Atlanta\n  State: Georgia\n  Country: United State
+ s\n  Stadium info: https://en.wikipedia.org/wiki/Mercedes-Benz_Stadium\n\n
+ Match page:\n  Forza (lineups\, live score\, stats): https://forzafootball
+ .com/match/1217858441\n\nWatch:\n  Peacock (Spanish\, stream all 104 match
+ es): https://www.peacocktv.com/watch/sports-La-Copa-Mundial-de-la-FIFA-202
+ 6\n  Telemundo (Spanish\, schedule + TV): https://www.telemundo.com/deport
+ es/copa-mundial-de-la-fifa-2026\n  FOX One (English\, stream all 104 match
+ es): https://www.fox.com/soccer/fifa-world-cup\n\nSchedule source: https:/
+ /worldcuply.com/matches.ics
+URL:https://forzafootball.com/match/1217858441
+CATEGORIES:World Cup 2026,Semi-final
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Winner Match 99 vs Winner Match 100 kicks off in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-103@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260718T210000Z
+DTEND:20260718T224500Z
+SUMMARY:Loser Match 101 vs Loser Match 102
+LOCATION:Hard Rock Stadium\, Miami Gardens · Florida · United States
+DESCRIPTION:⚽ M103\nFIFA World Cup 2026 — Match 103 of 104\nStage: Third-pl
+ ace Play-off\nKickoff: Sat 18 Jul 2026 · 21:00 UTC\nResult: TBD\n\nBracket
+ : Loser of M101 vs Loser of M102\n\nVenue:\n  Stadium: Hard Rock Stadium\n
+   Capacity: 65\,326\n  City: Miami Gardens\n  State: Florida\n  Country: U
+ nited States\n  Stadium info: https://en.wikipedia.org/wiki/Hard_Rock_Stad
+ ium\n\nMatch page:\n  Forza (lineups\, live score\, stats): https://forzaf
+ ootball.com/match/1217858442\n\nWatch:\n  Peacock (Spanish\, stream all 10
+ 4 matches): https://www.peacocktv.com/watch/sports-La-Copa-Mundial-de-la-F
+ IFA-2026\n  Telemundo (Spanish\, schedule + TV): https://www.telemundo.com
+ /deportes/copa-mundial-de-la-fifa-2026\n  FOX One (English\, stream all 10
+ 4 matches): https://www.fox.com/soccer/fifa-world-cup\n\nSchedule source: 
+ https://worldcuply.com/matches.ics
+URL:https://forzafootball.com/match/1217858442
+CATEGORIES:World Cup 2026,Third-place Play-off
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Loser Match 101 vs Loser Match 102 kicks off in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-watch-104@wc26.local
+DTSTAMP:20260615T182600Z
+DTSTART:20260719T190000Z
+DTEND:20260719T204500Z
+SUMMARY:Winner Match 101 vs Winner Match 102
+LOCATION:MetLife Stadium\, East Rutherford (NYC area) · New Jersey · United
+  States
+DESCRIPTION:⚽ M104\nFIFA World Cup 2026 — Match 104 of 104\nStage: Final\nK
+ ickoff: Sun 19 Jul 2026 · 19:00 UTC\nResult: TBD\n\nBracket: Winner of M10
+ 1 vs Winner of M102\n\nVenue:\n  Stadium: MetLife Stadium\n  Capacity: 82\
+ ,500\n  City: East Rutherford (NYC area)\n  State: New Jersey\n  Country: 
+ United States\n  Stadium info: https://en.wikipedia.org/wiki/MetLife_Stadi
+ um\n\nMatch page:\n  Forza (lineups\, live score\, stats): https://forzafo
+ otball.com/match/1217858443\n\nWatch:\n  Peacock (Spanish\, stream all 104
+  matches): https://www.peacocktv.com/watch/sports-La-Copa-Mundial-de-la-FI
+ FA-2026\n  Telemundo (Spanish\, schedule + TV): https://www.telemundo.com/
+ deportes/copa-mundial-de-la-fifa-2026\n  FOX One (English\, stream all 104
+  matches): https://www.fox.com/soccer/fifa-world-cup\n\nSchedule source: h
+ ttps://worldcuply.com/matches.ics
+URL:https://forzafootball.com/match/1217858443
+CATEGORIES:World Cup 2026,Final
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Winner Match 101 vs Winner Match 102 kicks off in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

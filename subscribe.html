@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>World Cup 2026 Calendar</title>
+  <style>
+    :root {
+      color-scheme: light dark;
+      --bg: #0b1f14;
+      --card: #132a1d;
+      --text: #eef6f0;
+      --muted: #a8c2b2;
+      --accent: #00a651;
+      --accent-dark: #008744;
+      --border: #2a4a36;
+    }
+    @media (prefers-color-scheme: light) {
+      :root {
+        --bg: #f4faf6;
+        --card: #ffffff;
+        --text: #102018;
+        --muted: #4d6b59;
+        --border: #d5e8dc;
+      }
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.5;
+    }
+    main {
+      max-width: 40rem;
+      margin: 0 auto;
+      padding: 1.5rem 1rem 3rem;
+    }
+    h1 {
+      font-size: 1.75rem;
+      margin: 0 0 0.5rem;
+    }
+    .lead { color: var(--muted); margin: 0 0 1.5rem; }
+    section {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 1.25rem;
+      margin-bottom: 1rem;
+    }
+    h2 {
+      font-size: 1.1rem;
+      margin: 0 0 0.75rem;
+    }
+    ol, ul { margin: 0; padding-left: 1.25rem; }
+    li + li { margin-top: 0.5rem; }
+    .actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.75rem;
+      margin: 1rem 0 0;
+    }
+    a.button {
+      display: inline-block;
+      background: var(--accent);
+      color: #fff;
+      text-decoration: none;
+      font-weight: 600;
+      padding: 0.75rem 1rem;
+      border-radius: 8px;
+    }
+    a.button:hover { background: var(--accent-dark); }
+    a.button.secondary {
+      background: transparent;
+      color: var(--text);
+      border: 1px solid var(--border);
+    }
+    code, .url {
+      font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+      font-size: 0.85rem;
+      word-break: break-all;
+    }
+    .note {
+      color: var(--muted);
+      font-size: 0.9rem;
+      margin-top: 0.75rem;
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>⚽ World Cup 2026 Calendar</h1>
+    <p class="lead">All 104 matches with kickoff times, stadiums, results, and watch links.</p>
+
+    <section>
+      <h2>Android (Google Calendar)</h2>
+      <p>The Google Calendar app cannot import a shared <code>.ics</code> file. Use this page instead.</p>
+      <div class="actions">
+        <a class="button" href="https://calendar.google.com/calendar/r?cid=https%3A%2F%2Fraw.githubusercontent.com%2Fvcordero07%2Fwc26-calendar%2Fmain%2FWC26-android.ics">Add to Google Calendar</a>
+        <a class="button secondary" href="https://raw.githubusercontent.com/vcordero07/wc26-calendar/main/WC26-android.ics">Download calendar file</a>
+      </div>
+      <p class="note">If the button does not work, open <strong>calendar.google.com</strong> in your phone browser (not the app), tap <strong>+</strong> next to Other calendars → <strong>From URL</strong>, and paste:</p>
+      <p class="url">https://raw.githubusercontent.com/vcordero07/wc26-calendar/main/WC26-android.ics</p>
+      <p class="note">The calendar syncs to your phone after a few minutes. For a one-time import instead, use Settings → Import &amp; export → Import on calendar.google.com.</p>
+    </section>
+
+    <section>
+      <h2>iPhone / Mac (Apple Calendar)</h2>
+      <p>Subscribe so scores and bracket updates appear automatically:</p>
+      <p class="url">webcal://raw.githubusercontent.com/vcordero07/wc26-calendar/main/WC26.ics</p>
+      <p class="note">Apple Calendar → File → New Calendar Subscription, or tap the link above on iOS.</p>
+    </section>
+
+    <section>
+      <h2>What&rsquo;s included</h2>
+      <ul>
+        <li>Kickoff times in UTC (shown in your local timezone)</li>
+        <li>Stadium, city, and capacity for all 16 venues</li>
+        <li>Peacock, Telemundo, and FOX One watch links</li>
+        <li>1-hour reminder before each match</li>
+      </ul>
+    </section>
+  </main>
+</body>
+</html>
